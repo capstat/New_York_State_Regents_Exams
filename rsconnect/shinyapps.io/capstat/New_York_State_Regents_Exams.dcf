@@ -1,0 +1,8 @@
+name: New_York_State_Regents_Exams
+account: capstat
+server: shinyapps.io
+bundleId: 329946
+url: https://capstat.shinyapps.io/New_York_State_Regents_Exams
+when: 1450019118.86237
+asMultiple: FALSE
+asStatic: FALSE

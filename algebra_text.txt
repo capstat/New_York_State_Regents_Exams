@@ -1,0 +1,3522 @@
+                 JMAP
+REGENTS BY COMMON CORE
+
+  STATE STANDARD: TOPIC
+
+         NY Algebra I Regents Exam Questions
+from Fall 2013 to August 2015 Sorted by CCSS: Topic
+
+                            www.jmap.org
+       TABLE OF CONTENTS
+
+TOPIC             CCSS: SUBTOPIC  QUESTION NUMBER
+
+NUMBERS, OPERATIONS N.RN.3: Classifying Numbers ...........................................................1-5
+
+AND PROPERTIES    A.REI.1: Identifying Properties ............................................................6
+
+     GRAPHS AND   S.ID.5: Frequency Histograms and Tables ...........................................7
+      STATISTICS  S.ID.1: Box Plots ..................................................................................8
+                  S.ID.2-3: Central Tendency and Dispersion ....................................9-13
+          RATE    S.ID.6: Regression.........................................................................14-19
+                  S.ID.6, 8: Correlation Coefficient and Residuals...........................20-25
+LINEAR EQUATIONS  S.ID.9: Analysis of Data.....................................................................26
+
+    INEQUALITIES  F.IF.6: Rate of Change...................................................................27-32
+ ABSOLUTE VALUE   N.Q.1: Conversions ............................................................................33
+
+                  A.SSE.1: Modeling Expressions.........................................................34
+                  A.REI.3: Solving Linear Equations ...............................................35-36
+                  A.CED.1, 3: Modeling Linear Equations.......................................37-40
+                  A.SSE.1, F.LE.5, F.BF.1, A.CED.1-2:
+                  Modeling Linear Functions............................................................41-50
+                  A.CED.2, A.REI.10, F.IF.4: Graphing Linear Functions ..............51-56
+                  A.CED.4: Transforming Formulas ................................................57-61
+
+                  A.REI.3: Solving Linear Inequalities ............................................62-66
+                  A.CED.3: Modeling Linear Inequalities........................................67-70
+                  A.REI.12: Graphing Linear Inequalities........................................71-72
+
+                  F.IF.7: Graphing Absolute Value Functions.......................................73
+
+QUADRATICS        A.SSE.3, A.REI.4: Solving Quadratics .........................................74-92
+   POWERS         A.CED.1: Modeling Quadratics..........................................................93
+  RADICALS        A.CED.1: Geometric Applications of Quadratics..........................94-99
+                  A.REI.10, F.IF.4, 8, 9: Graphing Quadratic Functions..............100-107
+                  A.REI.4: Using the Discriminant......................................................108
+
+                  A.APR.1: Operations with Polynomials ....................................109-115
+                  A.SSE.2: Factoring Polynomials ...............................................116-120
+                  A.APR.3: Zeros of Polynomials ................................................121-127
+                  F.IF.8: Evaluating Exponential Expressions.....................................128
+                  A.SSE.1, A.CED.1, F.BF.1, F.LE.2, F.IF.8, F.LE.5:
+                  Modeling Exponential Functions...............................................129-136
+                  A.SSE.3: Solving Exponential Equations.........................................137
+                  F.LE.1-3: Comparing Linear and Exponential Functions..........138-143
+                  F.LE.3: Comparing Quadratic and Exponential Functions ...............144
+
+                  F.IF.7: Graphing Root Functions ...............................................145-146
+
+FUNCTIONS         F.IF.2: Functional Notation .......................................................147-149
+ SYSTEMS          F.IF.1: Defining Functions ........................................................150-153
+                  F.IF.2, 5: Domain and Range.....................................................154-159
+                  F.LE.1, 2: Families of Functions ...............................................160-162
+                  F.BF.3: Transformations with Functions and Relations ............163-168
+                  F.IF.4: Relating Graphs to Events .............................................169-171
+                  F.IF.7: Graphing Piecewise-Defined Functions.........................172-175
+                  F.IF.7: Graphing Step Functions................................................176-177
+                  F.IF.3, F.LE.2, F.BF.2: Sequences ............................................178-184
+
+                  A.REI.5-6: Solving Linear Systems ..........................................185-187
+                  A.CED.2-3, A.REI.6: Modeling Linear Systems.......................188-194
+                  A.CED.2: Graphing Linear Systems.................................................195
+                  A.CED.3: Modeling Systems of Linear Inequalities .................196-198
+                  A.REI.12: Graphing Systems of Linear Inequalities .................199-203
+                  A.REI.7, 11: Quadratic-Linear Systems ....................................204-207
+                  A.REI.11: Nonlinear Systems...........................................................208
+Algebra I Regents Exam Questions by Common Core State Standard: Topic
+
+www.jmap.org
+
+Algebra I Regents Exam Questions by Common Core State Standard: Topic
+
+  NUMBERS, OPERATIONS AND                                 5 For which value of P and W is P + W a rational
+  PROPERTIES                                                 number?
+                                                             1 P = 1 and W = 1
+   N.RN.3: CLASSIFYING NUMBERS                                             36
+                                                             2 P = 1 and W = 1
+1 Given: L = 2                                                             49
+                                                             3 P = 1 and W = 1
+             M=3 3                                                         6 10
+                                                             4 P = 1 and W = 1
+             N = 16                                                        25 2
+
+             P= 9                                            A.REI.1: IDENTIFYING PROPERTIES
+   Which expression results in a rational number?
+   1 L+M                                                  6 When solving the equation 4(3x2 + 2) - 9 = 8x2 + 7,
+   2 M+N                                                     Emily wrote 4(3x2 + 2) = 8x2 + 16 as her first step.
+   3 N+P                                                     Which property justifies Emily's first step?
+   4 P+L                                                     1 addition property of equality
+                                                             2 commutative property of addition
+2 Which statement is not always true?                        3 multiplication property of equality
+   1 The product of two irrational numbers is                4 distributive property of multiplication over
+         irrational.                                               addition
+   2 The product of two rational numbers is
+         rational.                                          GRAPHS AND STATISTICS
+   3 The sum of two rational numbers is rational.
+   4 The sum of a rational number and an irrational          S.ID.5: FREQUENCY HISTOGRAMS AND
+         number is irrational.                               TABLES
+
+3 Ms. Fox asked her class "Is the sum of 4.2 and 2        7 The school newspaper surveyed the student body
+   rational or irrational?" Patrick answered that the        for an article about club membership. The table
+   sum would be irrational. State whether Patrick is         below shows the number of students in each grade
+   correct or incorrect. Justify your reasoning.             level who belong to one or more clubs.
+
+4 Which statement is not always true?                        If there are 180 students in ninth grade, what
+   1 The sum of two rational numbers is rational.            percentage of the ninth grade students belong to
+   2 The product of two irrational numbers is                more than one club?
+         rational.
+   3 The sum of a rational number and an irrational
+         number is irrational.
+   4 The product of a nonzero rational number and
+         an irrational number is irrational.
+
+                                                       1
+Algebra I Regents Exam Questions by Common Core State Standard: Topic
+
+www.jmap.org
+
+   S.ID.1: BOX PLOTS                                       10 Isaiah collects data from two different companies,
+                                                                each with four employees. The results of the study,
+8 Robin collected data on the number of hours she               based on each worker's age and salary, are listed in
+   watched television on Sunday through Thursday                the tables below.
+   nights for a period of 3 weeks. The data are shown
+   in the table below.
+
+Using an appropriate scale on the number line
+below, construct a box plot for the 15 values.
+
+   S.ID.2-3: CENTRAL TENDENCY AND                          Which statement is true about these data?
+   DISPERSION                                              1 The median salaries in both companies are
+
+9 Christopher looked at his quiz scores shown below             greater than $37,000.
+   for the first and second semester of his Algebra        2 The mean salary in company 1 is greater than
+   class.
+   Semester 1: 78, 91, 88, 83, 94                               the mean salary in company 2.
+   Semester 2: 91, 96, 80, 77, 88, 85, 92                  3 The salary range in company 2 is greater than
+   Which statement about Christopher's performance
+   is correct?                                                  the salary range in company 1.
+   1 The interquartile range for semester 1 is greater     4 The mean age of workers at company 1 is
+         than the interquartile range for semester 2.
+   2 The median score for semester 1 is greater than            greater than the mean age of workers at
+         the median score for semester 2.                       company 2.
+   3 The mean score for semester 2 is greater than
+         the mean score for semester 1.
+   4 The third quartile for semester 2 is greater than
+         the third quartile for semester 1.
+
+                                                        2
+Algebra I Regents Exam Questions by Common Core State Standard: Topic
+
+www.jmap.org
+
+11 Corinne is planning a beach vacation in July and is     13 The table below shows the annual salaries for the
+     analyzing the daily high temperatures for her              24 members of a professional sports team in terms
+     potential destination. She would like to choose a          of millions of dollars.
+     destination with a high median temperature and a
+     small interquartile range. She constructed box
+     plots shown in the diagram below.
+
+     Which destination has a median temperature above           The team signs an additional player to a contract
+     80 degrees and the smallest interquartile range?           worth 10 million dollars per year. Which statement
+     1 Ocean Beach                                              about the median and mean is true?
+     2 Whispering Palms                                         1 Both will increase.
+     3 Serene Shores                                            2 Only the median will increase.
+     4 Pelican Beach                                            3 Only the mean will increase.
+                                                                4 Neither will change.
+12 The two sets of data below represent the number of
+     runs scored by two different youth baseball teams          S.ID.6: REGRESSION
+     over the course of a season.                          14 Emma recently purchased a new car. She decided
+                   Team A: 4, 8, 5, 12, 3, 9, 5, 2
+                  Team B: 5, 9, 11, 4, 6, 11, 2, 7              to keep track of how many gallons of gas she used
+     Which set of statements about the mean and                 on five of her business trips. The results are shown
+     standard deviation is true?                                in the table below.
+     1 mean A < mean B
+          standard deviation A > standard deviation B           Write the linear regression equation for these data
+     2 mean A > mean B                                          where miles driven is the independent variable.
+          standard deviation A < standard deviation B           (Round all values to the nearest hundredth.)
+     3 mean A < mean B
+          standard deviation A < standard deviation B
+     4 mean A > mean B
+          standard deviation A > standard deviation B
+
+                                                        3
+Algebra I Regents Exam Questions by Common Core State Standard: Topic
+
+www.jmap.org
+
+15 About a year ago, Joey watched an online video of           17 Write an exponential equation for the graph shown
+     a band and noticed that it had been viewed only                below.
+     843 times. One month later, Joey noticed that the
+     band's video had 1708 views. Joey made the table
+     below to keep track of the cumulative number of
+     views the video was getting online.
+
+     Write a regression equation that best models these             Explain how you determined the equation.
+     data. Round all values to the nearest hundredth.
+     Justify your choice of regression equation. As            18 An application developer released a new app to be
+     shown in the table, Joey forgot to record the                  downloaded. The table below gives the number of
+     number of views after the second month. Use the                downloads for the first four weeks after the launch
+     equation from part a to estimate the number of full            of the app.
+     views of the online video that Joey forgot to record.
+
+16 The table below shows the number of grams of
+     carbohydrates, x, and the number of Calories, y, of
+     six different foods.
+
+                                                               Write an exponential equation that models these
+                                                               data. Use this model to predict how many
+                                                               downloads the developer would expect in the 26th
+                                                               week if this trend continues. Round your answer to
+                                                               the nearest download. Would it be reasonable to
+                                                               use this model to predict the number of downloads
+                                                               past one year? Explain your reasoning.
+
+Which equation best represents the line of best fit
+for this set of data?
+1 y = 15x
+2 y = 0.07x
+3 y = 0.1x - 0.4
+4 y = 14.1x + 5.8
+
+                                                            4
+Algebra I Regents Exam Questions by Common Core State Standard: Topic
+
+www.jmap.org
+
+19 The table below shows the attendance at a museum        21 Use the data below to write the regression equation
+     in select years from 2007 to 2013.                         (y = ax + b) for the raw test score based on the
+
+                                                                hours tutored. Round all values to the nearest
+                                                                hundredth.
+
+     State the linear regression equation represented by   Equation: ___________________________
+     the data table when x = 0 is used to represent the
+     year 2007 and y is used to represent the attendance.  Create a residual plot on the axes below, using the
+     Round all values to the nearest hundredth. State      residual scores in the table above.
+     the correlation coefficient to the nearest hundredth
+     and determine whether the data suggest a strong or
+     weak association.
+
+     S.ID.6, 8: CORRELATION COEFFICIENT AND
+     RESIDUALS
+
+20 Which statistic would indicate that a linear
+     function would not be a good fit to model a data
+     set?
+     1 r = -0.93
+     2 r=1
+
+3
+
+4
+                                                                            Based on the residual plot, state whether the
+                                                                            equation is a good fit for the data. Justify your
+                                                                            answer.
+
+                                                                5
+Algebra I Regents Exam Questions by Common Core State Standard: Topic
+
+www.jmap.org
+
+22 The table below represents the residuals for a line  23 The residual plots from two different sets of
+     of best fit.                                            bivariate data are graphed below.
+
+Plot these residuals on the set of axes below.
+
+Using the plot, assess the fit of the line for these         Explain, using evidence from graph A and graph B,
+residuals and justify your answer.                           which graph indicates that the model for the data is
+                                                             a good fit.
+
+                                                        24 What is the correlation coefficient of the linear fit
+                                                             of the data shown below, to the nearest hundredth?
+
+                                                                   1 1.00
+                                                                   2 0.93
+                                                                   3 -0.93
+                                                                   4 -1.00
+
+                                                        6
+Algebra I Regents Exam Questions by Common Core State Standard: Topic
+
+www.jmap.org
+
+25 A nutritionist collected information about different          S.ID.9: ANALYSIS OF DATA
+     brands of beef hot dogs. She made a table showing
+     the number of Calories and the amount of sodium        26 Beverly did a study this past spring using data she
+     in each hot dog.                                            collected from a cafeteria. She recorded data
+                                                                 weekly for ice cream sales and soda sales. Beverly
+                                                                 found the line of best fit and the correlation
+                                                                 coefficient, as shown in the diagram below.
+
+a) Write the correlation coefficient for the line of
+best fit. Round your answer to the nearest
+hundredth.
+b) Explain what the correlation coefficient suggests
+in the context of this problem.
+
+                                                            Given this information, which statement(s) can
+                                                            correctly be concluded?
+                                                            I. Eating more ice cream causes a person to
+                                                            become thirsty.
+                                                            II. Drinking more soda causes a person to become
+                                                            hungry.
+                                                            III. There is a strong correlation between ice cream
+                                                            sales and soda sales.
+                                                            1 I, only
+                                                            2 III, only
+                                                            3 I and III
+                                                            4 II and III
+
+                                                         7
+Algebra I Regents Exam Questions by Common Core State Standard: Topic
+
+www.jmap.org
+
+   RATE                                                  28 The Jamison family kept a log of the distance they
+                                                              traveled during a trip, as represented by the graph
+     F.IF.6: RATE OF CHANGE                                   below.
+
+27 Given the functions g(x), f(x), and h(x) shown
+     below:
+
+g(x) = x2 - 2x
+
+                                                              During which interval was their average speed the
+                                                              greatest?
+                                                              1 the first hour to the second hour
+                                                              2 the second hour to the fourth hour
+                                                              3 the sixth hour to the eighth hour
+                                                              4 the eighth hour to the tenth hour
+
+                                                         29 The table below shows the average diameter of a
+                                                              pupil in a person's eye as he or she grows older.
+
+The correct list of functions ordered from greatest
+to least by average rate of change over the interval
+0  x  3 is
+1 f(x), g(x), h(x)
+
+2 h(x), g(x), f(x)
+3 g(x), f(x), h(x)
+
+4 h(x), f(x), g(x)
+
+                                                         What is the average rate of change, in millimeters
+                                                         per year, of a person's pupil diameter from age 20
+                                                         to age 80?
+                                                         1 2.4
+                                                         2 0.04
+                                                         3 -2.4
+                                                         4 -0.04
+
+                                                      8
+Algebra I Regents Exam Questions by Common Core State Standard: Topic
+
+www.jmap.org
+
+30 An astronaut drops a rock off the edge of a cliff on       32 Firing a piece of pottery in a kiln takes place at
+     the Moon. The distance, d(t), in meters, the rock             different temperatures for different amounts of
+                                                                   time. The graph below shows the temperatures in a
+     travels after t seconds can be modeled by the                 kiln while firing a piece of pottery after the kiln is
+     function d(t) = 0.8t2. What is the average speed, in          preheated to 200ºF.
+
+     meters per second, of the rock between 5 and 10
+     seconds after it was dropped?
+     1 12
+     2 20
+     3 60
+     4 80
+
+31 Joey enlarged a 3-inch by 5-inch photograph on a
+     copy machine. He enlarged it four times. The
+     table below shows the area of the photograph after
+     each enlargement.
+
+What is the average rate of change of the area from           During which time interval did the temperature in
+the original photograph to the fourth enlargement,            the kiln show the greatest average rate of change?
+to the nearest tenth?                                         1 0 to 1 hour
+1 4.3                                                         2 1 hour to 1.5 hours
+2 4.5                                                         3 2.5 hours to 5 hours
+3 5.4                                                         4 5 hours to 8 hours
+4 6.0
+
+                                                              N.Q.1: CONVERSIONS
+
+                                                              33 Peyton is a sprinter who can run the 40-yard dash
+
+                                                              in 4.5 seconds. He converts his speed into miles
+
+                                                              per hour, as shown below.
+
+                                                                 40 yd      3 ft    5280 ft    60 sec    60 min
+                                                                 4.5 sec    1 yd     1 mi      1 min      1 hr
+
+                                                              Which ratio is incorrectly written to convert his
+
+                                                              speed?
+
+                                                              1  3 ft
+                                                                 1 yd
+
+                                                              2  5280 ft
+                                                                  1 mi
+
+                                                              3  60 sec
+                                                                 1 min
+
+                                                              4  60 min
+                                                                  1 hr
+
+                                                           9
+Algebra I Regents Exam Questions by Common Core State Standard: Topic
+
+www.jmap.org
+
+   LINEAR EQUATIONS                                           38 A cell phone company charges $60.00 a month for
+                                                                   up to 1 gigabyte of data. The cost of additional
+     A.SSE.1: MODELING EXPRESSIONS                                 data is $0.05 per megabyte. If d represents the
+                                                                   number of additional megabytes used and c
+34 To watch a varsity basketball game, spectators                  represents the total charges at the end of the month,
+     must buy a ticket at the door. The cost of an adult           which linear equation can be used to determine a
+     ticket is $3.00 and the cost of a student ticket is           user's monthly bill?
+     $1.50. If the number of adult tickets sold is                 1 c = 60 - 0.05d
+     represented by a and student tickets sold by s,               2 c = 60.05d
+     which expression represents the amount of money               3 c = 60d - 0.05
+     collected at the door from the ticket sales?                  4 c = 60 + 0.05d
+     1 4.50as
+     2 4.50(a + s)                                            39 A gardener is planting two types of trees:
+     3 (3.00a)(1.50s)                                                        Type A is three feet tall and grows at a rate
+     4 3.00a + 1.50s                                                         of 15 inches per year.
+                                                                             Type B is four feet tall and grows at a rate
+A.REI.3: SOLVING LINEAR EQUATIONS                                            of 10 inches per year.
+
+35 Which value of x satisfies the equation                         Algebraically determine exactly how many years it
+    x                                                              will take for these trees to be the same height.
+7      +  9      =  20?
+3         28                                                  40 Donna wants to make trail mix made up of
+                                                                   almonds, walnuts and raisins. She wants to mix
+1 8.25                                                             one part almonds, two parts walnuts, and three
+                                                                   parts raisins. Almonds cost $12 per pound, walnuts
+2 8.89                                                             cost $9 per pound, and raisins cost $5 per pound.
+                                                                   Donna has $15 to spend on the trail mix.
+3 19.25                                                            Determine how many pounds of trail mix she can
+                                                                   make. [Only an algebraic solution can receive full
+4 44.92                                                            credit.]
+
+36 What is the value of x in the equation                          A.SSE.1, F.LE.5, F.BF.1, A.CED.1-2:
+                                                                   MODELING LINEAR FUNCTIONS
+x  -2  +  1   =  5  ?
+   3      6      6                                            41 The owner of a small computer repair business has
+                                                                   one employee, who is paid an hourly rate of $22.
+14                                                                 The owner estimates his weekly profit using the
+                                                                   function P(x) = 8600 - 22x. In this function, x
+26                                                                 represents the number of
+                                                                   1 computers repaired per week
+38                                                                 2 hours worked per week
+                                                                   3 customers served per week
+4 11                                                               4 days worked per week
+
+     A.CED.1, 3: MODELING LINEAR EQUATIONS
+
+37 John has four more nickels than dimes in his
+     pocket, for a total of $1.25. Which equation could
+     be used to determine the number of dimes, x, in his
+     pocket?
+     1 0.10(x + 4) + 0.05(x) = $1.25
+     2 0.05(x + 4) + 0.10(x) = $1.25
+     3 0.10(4x) + 0.05(x) = $1.25
+     4 0.05(4x) + 0.10(x) = $1.25
+
+                                                          10
+Algebra I Regents Exam Questions by Common Core State Standard: Topic
+
+www.jmap.org
+
+42 A company that manufactures radios first pays a               45 Caitlin has a movie rental card worth $175. After
+     start-up cost, and then spends a certain amount of               she rents the first movie, the card's value is
+     money to manufacture each radio. If the cost of                  $172.25. After she rents the second movie, its value
+     manufacturing r radios is given by the function                  is $169.50. After she rents the third movie, the
+     c(r) = 5.25r + 125, then the value 5.25 best                     card is worth $166.75. Assuming the pattern
+     represents                                                       continues, write an equation to define A(n), the
+     1 the start-up cost                                              amount of money on the rental card after n rentals.
+     2 the profit earned from the sale of one radio                   Caitlin rents a movie every Friday night. How
+     3 the amount spent to manufacture each radio                     many weeks in a row can she afford to rent a
+     4 the average number of radios manufactured                      movie, using her rental card only? Explain how
+                                                                      you arrived at your answer.
+43 A satellite television company charges a one-time
+     installation fee and a monthly service charge. The          46 Alex is selling tickets to a school play. An adult
+     total cost is modeled by the function y = 40 + 90x.              ticket costs $6.50 and a student ticket costs $4.00.
+     Which statement represents the meaning of each                   Alex sells x adult tickets and 12 student tickets.
+     part of the function?                                            Write a function, f(x), to represent how much
+     1 y is the total cost, x is the number of months of              money Alex collected from selling tickets.
+           service, $90 is the installation fee, and $40 is
+           the service charge per month.                         47 A typical cell phone plan has a fixed base fee that
+     2 y is the total cost, x is the number of months of              includes a certain amount of data and an overage
+           service, $40 is the installation fee, and $90 is           charge for data use beyond the plan. A cell phone
+           the service charge per month.                              plan charges a base fee of $62 and an overage
+     3 x is the total cost, y is the number of months of              charge of $30 per gigabyte of data that exceed 2
+           service, $40 is the installation fee, and $90 is           gigabytes. If C represents the cost and g represents
+           the service charge per month.                              the total number of gigabytes of data, which
+     4 x is the total cost, y is the number of months of              equation could represent this plan when more than
+           service, $90 is the installation fee, and $40 is           2 gigabytes are used?
+           the service charge per month.                              1 C = 30 + 62(2 - g)
+                                                                      2 C = 30 + 62(g - 2)
+44 The cost of airing a commercial on television is                   3 C = 62 + 30(2 - g)
+     modeled by the function C(n) = 110n + 900, where                 4 C = 62 + 30(g - 2)
+     n is the number of times the commercial is aired.
+     Based on this model, which statement is true?               48 Each day Toni records the height of a plant for her
+     1 The commercial costs $0 to produce and $110                    science lab. Her data are shown in the table below.
+           per airing up to $900.
+     2 The commercial costs $110 to produce and                       The plant continues to grow at a constant daily rate.
+           $900 each time it is aired.                                Write an equation to represent h(n), the height of
+     3 The commercial costs $900 to produce and                       the plant on the nth day.
+           $110 each time it is aired.
+     4 The commercial costs $1010 to produce and
+           can air an unlimited number of times.
+
+                                                             11
+Algebra I Regents Exam Questions by Common Core State Standard: Topic
+
+www.jmap.org
+
+49 Jackson is starting an exercise program. The first          52 Which graph shows a line where each value of y is
+     day he will spend 30 minutes on a treadmill. He                three more than half of x?
+     will increase his time on the treadmill by 2 minutes
+     each day. Write an equation for T(d), the time, in
+     minutes, on the treadmill on day d. Find T(6), the
+
+     minutes he will spend on the treadmill on day 6.
+
+50 In 2013, the United States Postal Service charged           1
+     $0.46 to mail a letter weighing up to 1 oz. and           2
+     $0.20 per ounce for each additional ounce. Which
+     function would determine the cost, in dollars, c(z),
+     of mailing a letter weighing z ounces where z is an
+     integer greater than 1?
+     1 c(z) = 0.46z + 0.20
+     2 c(z) = 0.20z + 0.46
+     3 c(z) = 0.46(z - 1) + 0.20
+     4 c(z) = 0.20(z - 1) + 0.46
+
+     A.CED.2, A.REI.10, F.IF.4: GRAPHING LINEAR
+     FUNCTIONS
+
+51 Max purchased a box of green tea mints. The
+     nutrition label on the box stated that a serving of
+     three mints contains a total of 10 Calories. On the
+     axes below, graph the function, C, where C (x)
+     represents the number of Calories in x mints.
+
+                                                               3
+
+                                                               4
+
+Write an equation that represents C (x). A full box
+of mints contains 180 Calories. Use the equation to
+determine the total number of mints in the box.
+
+                                                           12
+Algebra I Regents Exam Questions by Common Core State Standard: Topic
+
+www.jmap.org
+
+53 On the set of axes below, draw the graph of the         56 Which function has the same y-intercept as the
+                                                                graph below?
+equation  y  =  -  3  x  +  3.
+                   4
+
+                                                           1   y  =  12 - 6x
+                                                                        4
+
+                                                           2 27 + 3y = 6x
+
+                                                           3 6y + x = 18
+
+                                                           4 y + 3 = 6x
+
+Is the point (3,2) a solution to the equation?             A.CED.4: TRANSFORMING FORMULAS
+Explain your answer based on the graph drawn.
+                                                           57 The formula for the volume of a cone is
+
+                                                           V=  1  r  2  h.  The radius, r, of the cone may be
+                                                               3
+54 The graph of a linear equation contains the points
+     (3,11) and (-2,1). Which point also lies on the       expressed as
+     graph?
+     1 (2,1)                                               1      3V
+     2 (2,4)                                                      h
+     3 (2,6)
+     4 (2,9)                                               2       V
+                                                                  3h
+
+                                                           3   3     V
+                                                                     h
+55 The value of the x-intercept for the graph of
+                                                               1     V
+4x - 5y = 40 is                                            4   3     h
+
+1 10
+
+2  4                                                       58 The formula for the area of a trapezoid is
+   5
+
+3  -  4                                                    A=  1  h(b 1  +  b  2 ).  Express b 1  in terms of A, h, and
+      5                                                        2
+
+4 -8                                                       b 2. The area of a trapezoid is 60 square feet, its
+
+                                                           height is 6 ft, and one base is 12 ft. Find the
+
+                                                           number of feet in the other base.
+
+                                                       13
+Algebra I Regents Exam Questions by Common Core State Standard: Topic
+
+www.jmap.org
+
+59 The equation for the volume of a cylinder is                        64  The  inequality  7  -  2  x  <  x  -  8  is  equivalent  to
+     V =  r2h. The positive value of r, in terms of h                                             3
+     and V, is
+                                                                           1 x>9
+
+1   r=      V                                                              2    x  >  -  3
+            h                                                                            5
+
+2 r = V h                                                                  3 x<9
+
+3 r = 2V h                                                                 4    x  <  -  3
+                                                                                         5
+          V
+4   r  =  2
+
+                                                                       65 Determine the smallest integer that makes
+                                                                            -3x + 7 - 5x < 15 true.
+
+60 The distance a free falling object has traveled can
+
+be  modeled     by   the  equation  d  =  1  at 2 ,  where  a  is      66 Solve for x algebraically:
+                                          2                                 7x - 3(4x - 8)  6x + 12 - 9x
+
+acceleration due to gravity and t is the amount of                          If x is a number in the interval [4,8], state all
+
+time the object has fallen. What is t in terms of a                         integers that satisfy the given inequality. Explain
+                                                                            how you determined these values.
+and d?
+
+1   t=      da
+            2
+
+2   t=      2d                                                              A.CED.3: MODELING LINEAR INEQUALITIES
+            a
+                                                                       67 David has two jobs. He earns $8 per hour
+            da    2                                                         babysitting his neighbor's children and he earns
+            d                                                               $11 per hour working at the coffee shop. Write an
+3   t  =                                                                    inequality to represent the number of hours, x,
+                                                                            babysitting and the number of hours, y, working at
+4   t  =    2d   2                                                          the coffee shop that David will need to work to
+            a                                                               earn a minimum of $200. David worked 15 hours
+                                                                            at the coffee shop. Use the inequality to find the
+61 The volume of a large can of tuna fish can be                            number of full hours he must babysit to reach his
+     calculated using the formula V = r2h. Write an                         goal of $200.
+     equation to find the radius, r, in terms of V and h.
+     Determine the diameter, to the nearest inch, of a                 68 Connor wants to attend the town carnival. The
+     large can of tuna fish that has a volume of 66 cubic                   price of admission to the carnival is $4.50, and
+     inches and a height of 3.3 inches.                                     each ride costs an additional 79 cents. If he can
+                                                                            spend at most $16.00 at the carnival, which
+   LINEAR INEQUALITIES                                                      inequality can be used to solve for r, the number of
+                                                                            rides Connor can go on, and what is the maximum
+     A.REI.3: SOLVING LINEAR INEQUALITIES                                   number of rides he can go on?
+                                                                            1 0.79 + 4.50r  16.00; 3 rides
+62 Given 2x + ax - 7 > -12, determine the largest                           2 0.79 + 4.50r  16.00; 4 rides
+     integer value of a when x = -1.                                        3 4.50 + 0.79r  16.00; 14 rides
+                                                                            4 4.50 + 0.79r  16.00; 15 rides
+63 Solve the inequality below to determine and state
+
+     the smallest possible value for x in the solution set.
+                          3(x + 3)  5x - 3
+
+                                                                   14
+Algebra I Regents Exam Questions by Common Core State Standard: Topic
+
+www.jmap.org
+
+69 Natasha is planning a school celebration and wants               A.REI.12: GRAPHING LINEAR INEQUALITIES
+     to have live music and food for everyone who
+     attends. She has found a band that will charge her        71 Which inequality is represented in the graph
+     $750 and a caterer who will provide snacks and                 below?
+     drinks for $2.25 per person. If her goal is to keep
+     the average cost per person between $2.75 and
+     $3.25, how many people, p, must attend?
+     1 225 < p < 325
+     2 325 < p < 750
+     3 500 < p < 1000
+     4 750 < p < 1500
+
+70 The cost of a pack of chewing gum in a vending                   1 y  -3x + 4
+     machine is $0.75. The cost of a bottle of juice in             2 y  -3x + 4
+     the same machine is $1.25. Julia has $22.00 to                 3 y  -4x - 3
+     spend on chewing gum and bottles of juice for her              4 y  -4x - 3
+     team and she must buy seven packs of chewing
+     gum. If b represents the number of bottles of juice,      72 On the set of axes below, graph the inequality
+     which inequality represents the maximum number                 2x + y > 1.
+     of bottles she can buy?
+     1 0.75b + 1.25(7)  22
+     2 0.75b + 1.25(7)  22
+     3 0.75(7) + 1.25b  22
+     4 0.75(7) + 1.25b  22
+
+                                                           15
+Algebra I Regents Exam Questions by Common Core State Standard: Topic
+
+www.jmap.org
+
+   ABSOLUTE VALUE                                               77 Which equation has the same solutions as
+                                                                     2x2 + x - 3 = 0
+     F.IF.7b: GRAPHING ABSOLUTE VALUE                                1 (2x - 1)(x + 3) = 0
+     FUNCTIONS                                                       2 (2x + 1)(x - 3) = 0
+                                                                     3 (2x - 3)(x + 1) = 0
+73 On the set of axes below, graph the function                      4 (2x + 3)(x - 1) = 0
+     y = |x + 1| .
+
+                                                                78 The zeros of the function f(x) = 3x2 - 3x - 6 are
+
+                                                                     1 -1 and -2
+                                                                     2 1 and -2
+                                                                     3 1 and 2
+                                                                     4 -1 and 2
+
+                                                                79 If Lylah completes the square for
+                                                                     f(x) = x2 - 12x + 7 in order to find the minimum,
+                                                                     she must write f(x) in the general form
+
+                                                                     f(x) = (x - a)2 + b. What is the value of a for f(x)?
+
+                                                                     16
+                                                                     2 -6
+                                                                     3 12
+                                                                     4 -12
+
+     State the range of the function. State the domain          80 If the quadratic formula is used to find the roots of
+     over which the function is increasing.                          the equation x2 - 6x - 19 = 0, the correct roots are
+                                                                     1 3±2 7
+   QUADRATICS                                                        2 -3 ± 2 7
+                                                                     3 3 ± 4 14
+     A.SSE.3, A.REI.4: SOLVING QUADRATICS                            4 -3 ± 4 14
+
+74 Solve 8m2 + 20m = 12 for m by factoring.
+
+75 Keith determines the zeros of the function f(x) to
+     be -6 and 5. What could be Keith's function?
+     1 f(x) = (x + 5)(x + 6)
+     2 f(x) = (x + 5)(x - 6)
+     3 f(x) = (x - 5)(x + 6)
+     4 f(x) = (x - 5)(x - 6)
+
+76 In the equation x2 + 10x + 24 = (x + a)(x + b), b is
+     an integer. Find algebraically all possible values of
+     b.
+
+                                                            16
+Algebra I Regents Exam Questions by Common Core State Standard: Topic
+
+www.jmap.org
+
+81 Ryker is given the graph of the function                    85 If 4x2 - 100 = 0, the roots of the equation are
+                                                                    1 -25 and 25
+y  =  1  x  2  - 4.  He wants to find the zeros of the              2 -25, only
+      2                                                             3 -5 and 5
+                                                                    4 -5, only
+function, but is unable to read them exactly from
+
+the graph.
+
+                                                               86 A student was given the equation x2 + 6x - 13 = 0
+                                                                    to solve by completing the square. The first step
+                                                                    that was written is shown below.
+                                                                                           x2 + 6x = 13
+                                                                    The next step in the student's process was
+                                                                    x2 + 6x + c = 13 + c. State the value of c that
+                                                                    creates a perfect square trinomial. Explain how the
+                                                                    value of c is determined.
+
+     Find the zeros in simplest radical form.                  87 Which equation has the same solutions as
+                                                                    x2 + 6x - 7 = 0?
+82 Which equation has the same solution as                          1 (x + 3)2 = 2
+     x2 - 6x - 12 = 0?                                              2 (x - 3)2 = 2
+     1 (x + 3)2 = 21                                                3 (x - 3)2 = 16
+     2 (x - 3)2 = 21                                                4 (x + 3)2 = 16
+     3 (x + 3)2 = 3
+     4 (x - 3)2 = 3                                            88 Solve the equation 4x2 - 12x = 7 algebraically for
+                                                                    x.
+83 What are the roots of the equation x2 + 4x - 16 = 0?
+     1 2±2 5                                                   89 When directed to solve a quadratic equation by
+     2 -2 ± 2 5
+     3 2±4 5                                                   completing the square, Sam arrived at the equation
+     4 -2 ± 4 5
+                                                               x -  5    2     13
+84 Write an equation that defines m(x) as a trinomial               2          4
+     where m(x) = (3x - 1)(3 - x) + 4x2 + 19. Solve for x                   =      .  Which equation could have been
+     when m(x) = 0.
+                                                               the original equation given to Sam?
+
+                                                               1 x2 + 5x + 7 = 0
+
+                                                               2 x2 + 5x + 3 = 0
+
+                                                               3 x2 - 5x + 7 = 0
+
+                                                               4 x2 - 5x + 3 = 0
+
+                                                           17
+Algebra I Regents Exam Questions by Common Core State Standard: Topic
+
+www.jmap.org
+
+90 A student is asked to solve the equation                          A.CED.1: GEOMETRIC APPLICATIONS OF
+     4(3x - 1)2 - 17 = 83. The student's solution to the             QUADRATICS
+     problem starts as 4(3x - 1)2 = 100
+                                                                94 The length of the shortest side of a right triangle is
+                           (3x - 1)2 = 25                            8 inches. The lengths of the other two sides are
+     A correct next step in the solution of the problem is           represented by consecutive odd integers. Which
+     1 3x - 1 = ±5                                                   equation could be used to find the lengths of the
+     2 3x - 1 = ±25                                                  other sides of the triangle?
+     3 9x2 - 1 = 25                                                  1 82 + (x + 1) = x2
+     4 9x2 - 6x + 1 = 5                                              2 x2 + 82 = (x + 1)2
+                                                                     3 82 + (x + 2) = x2
+91 What are the solutions to the equation                            4 x2 + 82 = (x + 2)2
+     x2 - 8x = 24?
+     1 x = 4 ± 2 10                                             95 A rectangular garden measuring 12 meters by 16
+     2 x = -4 ± 2 10                                                 meters is to have a walkway installed around it
+     3 x =4±2 2                                                      with a width of x meters, as shown in the diagram
+     4 x = -4 ± 2 2                                                  below. Together, the walkway and the garden have
+                                                                     an area of 396 square meters.
+
+92 The solution of the equation (x + 3)2 = 7 is
+     1 3± 7
+     2 7± 3
+     3 -3 ± 7
+     4 -7 ± 3
+
+     A.CED.1: MODELING QUADRATICS                                    Write an equation that can be used to find x, the
+                                                                     width of the walkway. Describe how your equation
+93 Sam and Jeremy have ages that are consecutive odd                 models the situation. Determine and state the
+     integers. The product of their ages is 783. Which               width of the walkway, in meters.
+     equation could be used to find Jeremy's age, j, if he
+     is the younger man?                                        96 A school is building a rectangular soccer field that
+     1 j 2 + 2 = 783                                                 has an area of 6000 square yards. The soccer field
+     2 j 2 - 2 = 783                                                 must be 40 yards longer than its width. Determine
+     3 j 2 + 2j = 783                                                algebraically the dimensions of the soccer field, in
+     4 j 2 - 2j = 783                                                yards.
+
+                                                            18
+Algebra I Regents Exam Questions by Common Core State Standard: Topic
+
+www.jmap.org
+
+97 New Clarendon Park is undergoing renovations to              101 A ball is thrown into the air from the edge of a
+     its gardens. One garden that was originally a                     48-foot-high cliff so that it eventually lands on the
+     square is being adjusted so that one side is doubled              ground. The graph below shows the height, y, of
+     in length, while the other side is decreased by three             the ball from the ground after x seconds.
+     meters. The new rectangular garden will have an
+     area that is 25% more than the original square
+     garden. Write an equation that could be used to
+     determine the length of a side of the original square
+     garden. Explain how your equation models the
+     situation. Determine the area, in square meters, of
+     the new rectangular garden.
+
+98 A landscaper is creating a rectangular flower bed
+     such that the width is half of the length. The area
+     of the flower bed is 34 square feet. Write and solve
+     an equation to determine the width of the flower
+     bed, to the nearest tenth of a foot.
+
+99 A rectangular picture measures 6 inches by 8                 For which interval is the ball's height always
+     inches. Simon wants to build a wooden frame for
+     the picture so that the framed picture takes up a          decreasing?
+     maximum area of 100 square inches on his wall.             1 0  x  2.5
+     The pieces of wood that he uses to build the frame         2 0 < x < 5.5
+     all have the same width. Write an equation or              3 2.5 < x < 5.5
+     inequality that could be used to determine the             4 x2
+     maximum width of the pieces of wood for the
+     frame Simon could create. Explain how your
+     equation or inequality models the situation. Solve
+     the equation or inequality to determine the
+     maximum width of the pieces of wood used for the
+     frame to the nearest tenth of an inch.
+
+       A.REI.10, F.IF.4, 8, 9: GRAPHING QUADRATIC
+       FUNCTIONS
+
+100 Which point is not on the graph represented by
+       y = x2 + 3x - 6?
+      1 (-6,12)
+      2 (-4,-2)
+      3 (2,4)
+      4 (3,-6)
+
+                                                            19
+Algebra I Regents Exam Questions by Common Core State Standard: Topic
+
+www.jmap.org
+
+102 A football player attempts to kick a football over a           105 Let f be the function represented by the graph
+                                                                          below.
+goal post. The path of the football can be modeled
+
+by the function h(x) =  -   1   x  2  +  2  x,  where  x  is  the
+                           225           3
+
+horizontal distance from the kick, and h(x) is the
+
+height of the football above the ground, when both
+
+are measured in feet. On the set of axes below,
+graph the function y = h(x) over the interval
+
+0  x  150.
+
+                                                                   Let g be a function such that g(x) =  -  1  x2  +  4x  +  3.
+                                                                                                            2
+
+                                                                   Determine which function has the larger maximum
+
+Determine the vertex of y = h(x). Interpret the                    value. Justify your answer.
+
+meaning of this vertex in the context of the                       106 Which quadratic function has the largest
+problem. The goal post is 10 feet high and 45                             maximum?
+yards away from the kick. Will the ball be high                          1 h(x) = (3 - x)(2 + x)
+enough to pass over the goal post? Justify your
+answer.
+
+103 A toy rocket is launched from the ground straight              2
+       upward. The height of the rocket above the                  3 k(x) = -5x2 - 12x + 4
+       ground, in feet, is given by the equation
+      h(t) = -16t2 + 64t, where t is the time in seconds.
+       Determine the domain for this function in the given
+       context. Explain your reasoning.
+
+104 a) Given the function f(x) = -x2 + 8x + 9, state
+       whether the vertex represents a maximum or
+       minimum point for the function. Explain your
+       answer.
+       b) Rewrite f(x) in vertex form by completing the
+       square.
+
+                                                                               4
+                                                                   20
+Algebra I Regents Exam Questions by Common Core State Standard: Topic
+
+www.jmap.org
+
+107 Given the following quadratic functions:                  110 A company produces x units of a product per
+                           g(x) = -x2 - x + 6                       month, where C(x) represents the total cost and
+                                    and                             R(x) represents the total revenue for the month.
+                                                                    The functions are modeled by C(x) = 300x + 250
+       Which statement about these functions is true?               and R(x) = -0.5x2 + 800x - 100. The profit is the
+      1 Over the interval -1  x  1, the average rate of              difference between revenue and cost where
+                                                                    P(x) = R(x) - C(x). What is the total profit, P(x),
+            change for n(x) is less than that for g(x).              for the month?
+      2 The y-intercept of g(x) is greater than the                 1 P(x) = -0.5x2 + 500x - 150
+                                                                    2 P(x) = -0.5x2 + 500x - 350
+            y-intercept for n(x).                                   3 P(x) = -0.5x2 - 500x + 350
+      3 The function g(x) has a greater maximum value               4 P(x) = -0.5x2 + 500x + 350
+
+            than n(x).                                        111 Express the product of 2x2 + 7x - 10 and x + 5 in
+      4 The sum of the roots of n(x) = 0 is greater than             standard form.
+
+            the sum of the roots of g(x) = 0.                 112 Fred is given a rectangular piece of paper. If the
+                                                                     length of Fred's piece of paper is represented by
+       A.REI.4: USING THE DISCRIMINANT                              2x - 6 and the width is represented by 3x - 5, then
+                                                                     the paper has a total area represented by
+108 How many real solutions does the equation                       1 5x - 11
+      x2 - 2x + 5 = 0 have? Justify your answer.                    2 6x2 - 28x + 30
+                                                                    3 10x - 22
+    POWERS                                                          4 6x2 - 6x - 11
+
+       A.APR.1: OPERATIONS WITH POLYNOMIALS                   113 Subtract 5x2 + 2x - 11 from 3x2 + 8x - 7. Express
+                                                                     the result as a trinomial.
+109 If A = 3x2 + 5x - 6 and B = -2x2 - 6x + 7, then
+       A - B equals                                           114 If the difference (3x2 - 2x + 5) - (x2 + 3x - 2) is
+      1 -5x2 - 11x + 13
+      2 5x2 + 11x - 13                                                        1
+      3 -5x2 - x + 1                                                          2
+      4 5x2 - x + 1
+
+                                                              multiplied  by     x2,  what  is  the  result,  written  in
+
+                                                              standard form?
+
+                                                              115 Which trinomial is equivalent to
+                                                                    3(x - 2)2 - 2(x - 1)?
+
+                                                                    1 3x2 - 2x - 10
+                                                                    2 3x2 - 2x - 14
+                                                                    3 3x2 - 14x + 10
+                                                                    4 3x2 - 14x + 14
+
+                                                          21
+Algebra I Regents Exam Questions by Common Core State Standard: Topic
+
+www.jmap.org
+
+A.SSE.2: FACTORING POLYNOMIALS                                  A.APR.3: ZEROS OF POLYNOMIALS
+
+116 Factor the expression x4 + 6x2 - 7 completely.              121 The graphs below represent functions defined by
+
+117 Which expression is equivalent to x4 - 12x2 + 36?                  polynomials. For which function are the zeros of
+      1 (x2 - 6)(x2 - 6)                                              the polynomials 2 and -3?
+      2 (x2 + 6)(x2 + 6)
+      3 (6 - x2 )(6 + x2 )
+      4 (x2 + 6)(x2 - 6)
+
+118 When factored completely, the expression p 4 - 81           1
+       is equivalent to
+      1 (p 2 + 9)(p 2 - 9)
+      2 (p 2 - 9)(p 2 - 9)
+      3 (p 2 + 9)(p + 3)(p - 3)
+      4 (p + 3)(p - 3)(p + 3)(p - 3)
+
+119 If the area of a rectangle is expressed as x4 - 9y2 ,       2
+       then the product of the length and the width of the
+       rectangle could be expressed as
+      1 (x - 3y)(x + 3y)
+
+      2 (x2 - 3y)(x2 + 3y)
+      3 (x2 - 3y)(x2 - 3y)
+      4 (x4 + y)(x - 9y)
+
+120 Four expressions are shown below.                           3
+                       I 2(2x2 - 2x - 60)
+
+                       II 4(x2 - x - 30)
+                       III 4(x + 6)(x - 5)
+                       IV 4x(x - 1) - 120
+
+      The expression 4x2 - 4x - 120 is equivalent to
+       1 I and II, only
+       2 II and IV, only
+       3 I, II, and IV
+       4 II, III, and IV
+
+                                                                4
+
+                                                            22
+Algebra I Regents Exam Questions by Common Core State Standard: Topic
+
+www.jmap.org
+
+122 For which function defined by a polynomial are the        126 Which equation(s) represent the graph below?
+      zeros of the polynomial -4 and -6?                                      I y = (x + 2)(x2 - 4x - 12)
+      1 y = x2 - 10x - 24                                                     II y = (x - 3)(x2 + x - 2)
+      2 y = x2 + 10x + 24                                                     III y = (x - 1)(x2 - 5x - 6)
+      3 y = x2 + 10x - 24
+      4 y = x2 - 10x + 24
+
+123 The zeros of the function f(x) = (x + 2)2 - 25 are
+
+      1 -2 and 5
+      2 -3 and 7
+      3 -5 and 2
+      4 -7 and 3
+
+124 A polynomial function contains the factors x, x - 2,
+      and x + 5. Which graph(s) below could represent
+       the graph of this function?
+
+                                                              1 I, only
+                                                              2 II, only
+                                                              3 I and II
+                                                              4 II and III
+
+       1 I, only
+       2 II, only
+       3 I and III
+       4 I, II, and III
+
+125 What are the zeros of the function
+       f(x) = x2 - 13x - 30?
+      1 -10 and 3
+      2 10 and -3
+      3 -15 and 2
+      4 15 and -2
+
+                                                          23
+Algebra I Regents Exam Questions by Common Core State Standard: Topic
+
+www.jmap.org
+
+127 The graph of f(x) is shown below.                           A.SSE.1, A.CED.1, F.BF.1, F.LE.2, F.IF.8, F.LE.5:
+                                                                MODELING EXPONENTIAL EQUATIONS
+
+                                                                129 The function V(t) = 1350(1.017)t represents the
+                                                                      value V(t), in dollars, of a comic book t years after
+
+                                                                       its purchase. The yearly rate of appreciation of the
+                                                                       comic book is
+                                                                       1 17%
+                                                                       2 1.7%
+                                                                       3 1.017%
+                                                                       4 0.017%
+
+      Which function could represent the graph of f(x)?         130 Dylan invested $600 in a savings account at a 1.6%
+      1 f(x) = (x + 2)(x2 + 3x - 4)                                    annual interest rate. He made no deposits or
+      2 f(x) = (x - 2)(x2 + 3x - 4)                                    withdrawals on the account for 2 years. The
+      3 f(x) = (x + 2)(x2 + 3x + 4)                                    interest was compounded annually. Find, to the
+      4 f(x) = (x - 2)(x2 + 3x + 4)                                    nearest cent, the balance in the account after 2
+                                                                       years.
+       F.IF.8: EVALUATING EXPONENTIAL
+       EXPRESSIONS                                              131 Rhonda deposited $3000 in an account in the
+                                                                       Merrick National Bank, earning 4.2% interest,
+128 The value in dollars, v(x), of a certain car after x               compounded annually. She made no deposits or
+       years is represented by the equation                            withdrawals. Write an equation that can be used to
+      v(x) = 25,000(0.86)x . To the nearest dollar, how                find B, her account balance after t years.
+       much more is the car worth after 2 years than after
+       3 years?                                                 132 Krystal was given $3000 when she turned 2 years
+       1 2589                                                          old. Her parents invested it at a 2% interest rate
+       2 6510                                                          compounded annually. No deposits or withdrawals
+       3 15,901                                                        were made. Which expression can be used to
+       4 18,490                                                        determine how much money Krystal had in the
+                                                                       account when she turned 18?
+                                                                      1 3000(1 + 0.02)16
+                                                                      2 3000(1 - 0.02)16
+                                                                      3 3000(1 + 0.02)18
+                                                                      4 3000(1 - 0.02)18
+
+                                                            24
+Algebra I Regents Exam Questions by Common Core State Standard: Topic
+
+www.jmap.org
+
+133 The country of Benin in West Africa has a                            A.SSE.3: SOLVING EXPONENTIAL
+       population of 9.05 million people. The population                 EQUATIONS
+       is growing at a rate of 3.1% each year. Which
+       function can be used to find the population 7 years        137 Miriam and Jessica are growing bacteria in a
+       from now?                                                         laboratory. Miriam uses the growth function
+      1 f(t) = (9.05 × 106 )(1 - 0.31)7                                  f(t) = n 2t while Jessica uses the function
+      2 f(t) = (9.05 × 106 )(1 + 0.31)7                                 g(t) = n4t , where n represents the initial number of
+      3 f(t) = (9.05 × 106 )(1 + 0.031)7                                 bacteria and t is the time, in hours. If Miriam starts
+      4 f(t) = (9.05 × 106 )(1 - 0.031)7                                 with 16 bacteria, how many bacteria should Jessica
+                                                                         start with to achieve the same growth over time?
+134 Some banks charge a fee on savings accounts that                     1 32
+       are left inactive for an extended period of time.                 2 16
+      The equation y = 5000(0.98)x represents the value,                 38
+       y, of one account that was left inactive for a period             44
+       of x years. What is the y-intercept of this equation
+       and what does it represent?                                       F.LE.1-3: COMPARING LINEAR AND
+       1 0.98, the percent of money in the account                       EXPONENTIAL FUNCTIONS
+            initially
+       2 0.98, the percent of money in the account after          138 The table below shows the average yearly balance
+            x years                                                      in a savings account where interest is compounded
+       3 5000, the amount of money in the account                        annually. No money is deposited or withdrawn
+            initially                                                    after the initial amount is deposited.
+       4 5000, the amount of money in the account after
+            x years
+
+135 The breakdown of a sample of a chemical
+       compound is represented by the function
+       p(t) = 300(0.5)t , where p(t) represents the number
+       of milligrams of the substance and t represents the
+      time, in years. In the function p(t), explain what
+       0.5 and 300 represent.
+
+136 The number of carbon atoms in a fossil is given by            Which type of function best models the given data?
+      the function y = 5100(0.95)x , where x represents           1 linear function with a negative rate of change
+                                                                  2 linear function with a positive rate of change
+       the number of years since being discovered. What           3 exponential decay function
+       is the percent of change each year? Explain how            4 exponential growth function
+       you arrived at your answer.
+
+                                                              25
+Algebra I Regents Exam Questions by Common Core State Standard: Topic
+
+www.jmap.org
+
+ 139 Rachel and Marc were given the information shown below about the bacteria growing in a Petri dish in their
+        biology class.
+
+Rachel wants to model this information with a linear function. Marc wants to use an exponential function. Which
+model is the better choice? Explain why you chose this model.
+
+140 The table below represents the function F.                             143 Alicia has invented a new app for smart phones that
+                                                                                  two companies are interested in purchasing for a
+       The equation that represents this function is                              2-year contract. Company A is offering her
+      1 F(x) = 3x                                                                 $10,000 for the first month and will increase the
+      2 F(x) = 3x                                                                 amount each month by $5000. Company B is
+      3 F(x) = 2x + 1                                                             offering $500 for the first month and will double
+      4 F(x) = 2x + 3                                                             their payment each month from the previous
+                                                                                  month. Monthly payments are made at the end of
+141 A laboratory technician studied the population                                each month. For which monthly payment will
+       growth of a colony of bacteria. He recorded the                            company B's payment first exceed company A's
+       number of bacteria every other day, as shown in the                        payment?
+       partial table below.                                                       16
+                                                                                  27
+                                                                                  38
+                                                                                  49
+
+       Which function would accurately model the
+       technician's data?
+      1 f(t) = 25t
+      2 f(t) = 25t + 1
+      3 f(t) = 25t
+      4 f(t) = 25(t + 1)
+
+142 If f(x) = 3x and g(x) = 2x + 5, at which value of x
+      is f(x) < g(x)?
+      1 -1
+       22
+      3 -3
+       44
+
+                                                                       26
+Algebra I Regents Exam Questions by Common Core State Standard: Topic
+
+www.jmap.org
+
+       F.LE.3: COMPARING QUADRATIC AND                         RADICALS
+       EXPONENTIAL FUNCTIONS
+                                                                  F.IF.7: GRAPHING ROOT FUNCTIONS
+144 Graph f(x) = x2 and g(x) = 2x for x  0 on the set
+       of axes below.                                      145 On the set of axes below, graph the function
+                                                                 represented by y = 3 x - 2 for the domain
+                                                                 -6  x  10.
+
+State which function, f(x) or g(x), has a greater          146 Draw the graph of y = x - 1 on the set of axes
+value when x = 20. Justify your reasoning.                        below.
+
+                                                       27
+Algebra I Regents Exam Questions by Common Core State Standard: Topic
+
+www.jmap.org
+
+    FUNCTIONS                                                              F.IF.1: DEFINING FUNCTIONS
+
+       F.IF.2: FUNCTIONAL NOTATION                                  150 The function f has a domain of {1,3,5,7} and a
+                                                                          range of {2,4,6}. Could f be represented by
+147 The graph of y = f(x) is shown below.                                 {(1,2),(3,4),(5,6),(7,2)}? Justify your answer.
+
+                                                                    151 A function is shown in the table below.
+
+     Which point could be used to find f(2)?                              If included in the table, which ordered pair, (-4,1)
+                                                                          or (1,-4), would result in a relation that is no
+     1A                                                                    longer a function? Explain your answer.
+     2B
+     3C                                                             152 Which table represents a function?
+     4D
+                                                                           1
+148 The equation to determine the weekly earnings of
+                                                                           2
+     an employee at The Hamburger Shack is given by
+                                                                           3
+     w(x), where x is the number of hours worked.
+                                                                           4
+           w(x)  =    10x,                        0    x    40
+                      15(x                       > 40
+                            -  40)  +   400,  x
+
+     Determine the difference in salary, in dollars, for
+
+     an employee who works 52 hours versus one who
+
+     works 38 hours. Determine the number of hours an
+
+     employee must work in order to earn $445.
+
+     Explain how you arrived at this answer.
+
+149  If f(x) =   2x + 3  ,  then    f   1    =
+                6x - 5                  2
+
+     11
+
+     2 -2
+
+     3 -1
+
+     4  -  13
+           3
+
+                                                                28
+Algebra I Regents Exam Questions by Common Core State Standard: Topic
+
+www.jmap.org
+
+153 Which representations are functions?                                156 The graph of the function f(x) = x + 4 is shown
+                                                                               below.
+
+     1 I and II                                                         The domain of the function is
+     2 II and IV                                                        1 {x | x > 0}
+     3 III, only                                                        2 {x | x  0}
+     4 IV, only                                                         3 {x | x > -4}
+                                                                        4 {x | x  -4}
+     F.IF.2, 5: DOMAIN AND RANGE
+
+154  If  f(x)  =  1  x  +  9,  which  statement  is  always  true?      157 Officials in a town use a function, C, to analyze
+                  3
+                                                                        traffic patterns. C(n) represents the rate of traffic
+
+     1 f(x) < 0                                                         through an intersection where n is the number of
+
+     2 f(x) > 0                                                         observed vehicles in a specified time interval.
+
+     3 If x < 0, then f(x) < 0.                                         What would be the most appropriate domain for the
+
+     4 If x > 0, then f(x) > 0.                                         function?
+
+                                                                        1 {. . .- 2,-1,0,1,2,3,. . . }
+
+155 Let f be a function such that f(x) = 2x - 4 is                      2 {-2,-1,0,1,2,3}
+      defined on the domain 2  x  6. The range of this
+       function is                                                      3  {0,  1  , 1, 1  1  ,  2,  2  1  }
+      1 0y8                                                                     2          2            2
+      2 0y<
+      3 2y6                                                             4 {0,1,2,3,. . . }
+      4 - < y < 
+                                                                        158 The function h(t) = -16t2 + 144 represents the
+
+                                                                              height, h(t), in feet, of an object from the ground at
+
+                                                                               t seconds after it is dropped. A realistic domain for
+                                                                               this function is
+                                                                              1 -3  t  3
+                                                                              2 0t3
+                                                                              3 0  h(t)  144
+
+                                                                               4 all real numbers
+
+                                                                    29
+Algebra I Regents Exam Questions by Common Core State Standard: Topic
+
+www.jmap.org
+
+159 Which domain would be the most appropriate set to            161 Which table of values represents a linear
+       use for a function that predicts the number of                   relationship?
+       household online-devices in terms of the number of
+       people in the household?                                         1
+       1 integers
+       2 whole numbers
+       3 irrational numbers
+       4 rational numbers
+
+       F.LE.1-2: FAMILIES OF FUNCTIONS
+
+160 Which situation could be modeled by using a linear           2
+       function?
+       1 a bank account balance that grows at a rate of
+            5% per year, compounded annually
+       2 a population of bacteria that doubles every 4.5
+            hours
+       3 the cost of cell phone service that charges a
+            base amount plus 20 cents per minute
+       4 the concentration of medicine in a person's
+            body that decays by a factor of one-third every
+            hour
+
+                                                                 3
+
+                                                                 4
+
+                                                             30
+Algebra I Regents Exam Questions by Common Core State Standard: Topic
+
+www.jmap.org
+
+162 A population that initially has 20 birds                   F.BF.3: TRANSFORMATIONS WITH
+       approximately doubles every 10 years. Which             FUNCTIONS AND RELATIONS
+       graph represents this population growth?
+                                                        163 The vertex of the parabola represented by
+                                                               f(x) = x2 - 4x + 3 has coordinates (2,-1). Find the
+                                                               coordinates of the vertex of the parabola defined by
+                                                              g(x) = f(x - 2). Explain how you arrived at your
+                                                               answer. [The use of the set of axes below is
+                                                               optional.]
+
+1
+
+2
+
+3
+
+4
+
+                                                    31
+Algebra I Regents Exam Questions by Common Core State Standard: Topic
+
+www.jmap.org
+
+164 The graph of the equation y = ax2 is shown below.             166 How does the graph of f(x) = 3(x - 2)2 + 1
+                                                                        compare to the graph of g(x) = x2 ?
+If  a  is  multiplied  by  -  1  ,  the  graph  of  the  new            1 The graph of f(x) is wider than the graph of
+                              2                                               g(x), and its vertex is moved to the left 2 units
+                                                                              and up 1 unit.
+equation is                                                             2 The graph of f(x) is narrower than the graph of
+                                                                              g(x), and its vertex is moved to the right 2 units
+1 wider and opens downward                                                    and up 1 unit.
+                                                                        3 The graph of f(x) is narrower than the graph of
+2 wider and opens upward                                                      g(x), and its vertex is moved to the left 2 units
+                                                                              and up 1 unit.
+3 narrower and opens downward                                           4 The graph of f(x) is wider than the graph of
+                                                                              g(x), and its vertex is moved to the right 2 units
+                                                                              and up 1 unit.
+
+                                                                  167 Graph the function y = |x - 3| on the set of axes
+                                                                         below.
+
+4 narrower and opens upward
+
+165 On the axes below, graph f(x) = |3x| .
+
+                                                                  Explain how the graph of y = |x - 3| has changed
+                                                                  from the related graph y = |x| .
+
+If g(x) = f(x) - 2, how is the graph of f(x)
+translated to form the graph of g(x)? If
+h(x) = f(x - 4), how is the graph of f(x) translated
+to form the graph of h(x)?
+
+                                                              32
+Algebra I Regents Exam Questions by Common Core State Standard: Topic
+
+www.jmap.org
+
+168 Given the graph of the line represented by the                  170 The graph below represents a jogger's speed during
+      equation f(x) = -2x + b, if b is increased by 4 units,               her 20-minute jog around her neighborhood.
+
+       the graph of the new line would be shifted 4 units
+       1 right
+       2 up
+       3 left
+       4 down
+
+       F.IF.4: RELATING GRAPHS TO EVENTS                            Which statement best describes what the jogger
+                                                                    was doing during the 9 - 12 minute interval of her
+169 During a snowstorm, a meteorologist tracks the                  jog?
+       amount of accumulating snow. For the first three             1 She was standing still.
+       hours of the storm, the snow fell at a constant rate         2 She was increasing her speed.
+       of one inch per hour. The storm then stopped for             3 She was decreasing her speed
+       two hours and then started again at a constant rate          4 She was jogging at a constant rate.
+       of one-half inch per hour for the next four hours.
+       a) On the grid below, draw and label a graph that
+       models the accumulation of snow over time using
+       the data the meteorologist collected.
+
+                                                                    171 A driver leaves home for a business trip and drives
+                                                                           at a constant speed of 60 miles per hour for 2
+                                                                           hours. Her car gets a flat tire, and she spends 30
+                                                                           minutes changing the tire. She resumes driving and
+                                                                           drives at 30 miles per hour for the remaining one
+                                                                           hour until she reaches her destination. On the set
+                                                                           of axes below, draw a graph that models the
+                                                                           driver's distance from home.
+
+b) If the snowstorm started at 6 p.m., how much
+snow had accumulated by midnight?
+
+                                                                33
+Algebra I Regents Exam Questions by Common Core State Standard: Topic
+
+www.jmap.org
+
+F.IF.7: GRAPHING PIECEWISE-DEFINED                          173 A function is graphed on the set of axes below.
+FUNCTIONS
+
+172 At an office supply store, if a customer purchases
+
+fewer than 10 pencils, the cost of each pencil is
+
+$1.75. If a customer purchases 10 or more pencils,
+
+the cost of each pencil is $1.25. Let c be a function
+
+for which c (x) is the cost of purchasing x pencils,
+
+where    x i11s..72a55wxx,,hiioff l0xe  number.
+c (x) =                                 x9
+
+                                         10
+
+Create a graph of c on the axes below.
+
+                                                            143W2 hicffffh((((xxxxf))))u====ncti2xxxxx2312ox2222n-xx,,,,-ixx2xx+-s,7<<<<rx,2291ex1111>l,,a>xxt1e1>>d  to  the  graph?
+                                                                                                                                                                      1
+                                                                                                                                                                      1
+
+A customer brings 8 pencils to the cashier. The
+cashier suggests that the total cost to purchase 10
+pencils would be less expensive. State whether the
+cashier is correct or incorrect. Justify your answer.
+
+                                                        34
+Algebra I Regents Exam Questions by Common Core State Standard: Topic
+
+www.jmap.org
+
+174 Graph the following function on the set of axes                                                |x  |  x<1
+                                                                                                       x        ?
+below.                                                   175  Which  graph  represents  f(x)  =
+                                                                                                          x1
+                   |x  |,  -3x <1
+        f(x)  =    4,         1x8
+
+                                                              1
+
+                                                              2
+
+                                                              3
+
+                                                              4
+
+                                                     35
+Algebra I Regents Exam Questions by Common Core State Standard: Topic
+
+www.jmap.org
+
+       F.IF.7: GRAPHING STEP FUNCTIONS                          177 Morgan can start wrestling at age 5 in Division 1.
+                                                                       He remains in that division until his next odd
+176 The table below lists the total cost for parking for a             birthday when he is required to move up to the next
+       period of time on a street in Albany, N.Y. The                  division level. Which graph correctly represents
+       total cost is for any length of time up to and                  this information?
+       including the hours parked. For example, parking
+       for up to and including 1 hour would cost $1.25;
+       parking for 3.5 hours would cost $5.75.
+
+                                                                1
+
+Graph the step function that represents the cost for            2
+the number of hours parked.                                     3
+
+Explain how the cost per hour to park changes over                     4
+the six-hour period.
+                                                                       F.IF.3, F.LE.2, F.BF.2: SEQUENCES
+
+                                                                178 A sunflower is 3 inches tall at week 0 and grows 2
+                                                                       inches each week. Which function(s) shown below
+                                                                      can be used to determine the height, f(n), of the
+                                                                       sunflower in n weeks?
+                                                                           I. f(n) = 2n + 3
+                                                                           II. f(n) = 2n + 3(n - 1)
+                                                                           III. f(n) = f(n - 1) + 2 where f(0) = 3
+                                                                       1 I and II
+                                                                       2 II, only
+                                                                       3 III, only
+                                                                       4 I and III
+
+                                                            36
+Algebra I Regents Exam Questions by Common Core State Standard: Topic
+
+www.jmap.org
+
+179 If f(1) = 3 and f(n) = -2f(n - 1) + 1, then f(5) =              183 The third term in an arithmetic sequence is 10 and
+      1 -5                                                                the fifth term is 26. If the first term is a 1, which is
+       2 11                                                                an equation for the nth term of this sequence?
+       3 21                                                               1 a n = 8n + 10
+       4 43                                                               2 a n = 8n - 14
+                                                                          3 a n = 16n + 10
+180 If a sequence is defined recursively by f(0) = 2 and                  4 a n = 16n - 38
+       f(n + 1) = -2f(n) + 3 for n  0, then f(2) is equal to
+       11                                                           184 A pattern of blocks is shown below.
+      2 -11
+       35
+       4 17
+
+181 Which recursively defined function has a first term             If the pattern of blocks continues, which formula(s)
+       equal to 10 and a common difference of 4?                    could be used to determine the number of blocks in
+      1 f(1) = 10                                                   the nth term?
+
+            f(x) = f(x - 1) + 4                                     1 I and II
+      2 f(1) = 4                                                    2 I and III
+                                                                    3 II and III
+            f(x) = f(x - 1) + 10                                    4 III, only
+      3 f(1) = 10
+
+            f(x) = 4f(x - 1)
+      4 f(1) = 4
+
+            f(x) = 10f(x - 1)
+
+182 The diagrams below represent the first three terms
+       of a sequence.
+
+Assuming the pattern continues, which formula
+determines a n, the number of shaded squares in the
+nth term?
+1 a n = 4n + 12
+2 a n = 4n + 8
+3 a n = 4n + 4
+4 a n = 4n + 2
+
+                                                                37
+Algebra I Regents Exam Questions by Common Core State Standard: Topic
+
+www.jmap.org
+
+    SYSTEMS                                                             A.CED.2-3, A.REI.6: MODELING LINEAR
+                                                                        SYSTEMS
+       A.REI.5-6: SOLVING LINEAR SYSTEMS
+                                                                 188 During the 2010 season, football player McGee's
+185 Which system of equations has the same solution                     earnings, m, were 0.005 million dollars more than
+       as the system below?                                             those of his teammate Fitzpatrick's earnings, f.
+                              2x + 2y = 16                              The two players earned a total of 3.95 million
+                                                                        dollars. Which system of equations could be used
+                                3x - y = 4                              to determine the amount each player earned, in
+      1 2x + 2y = 16                                                    millions of dollars?
+                                                                       1 m + f = 3.95
+             6x - 2y = 4
+      2 2x + 2y = 16                                                         m + 0.005 = f
+                                                                       2 m - 3.95 = f
+             6x - 2y = 8
+      3 x + y = 16                                                           f + 0.005 = m
+                                                                       3 f - 3.95 = m
+            3x - y = 4
+      4 6x + 6y = 48                                                         m + 0.005 = f
+                                                                       4 m + f = 3.95
+             6x + 2y = 8
+                                                                             f + 0.005 = m
+186 Guy and Jim work at a furniture store. Guy is paid
+       $185 per week plus 3% of his total sales in dollars,      189 Jacob and Zachary go to the movie theater and
+      x, which can be represented by g(x) = 185 + 0.03x.                purchase refreshments for their friends. Jacob
+       Jim is paid $275 per week plus 2.5% of his total                 spends a total of $18.25 on two bags of popcorn
+       sales in dollars, x, which can be represented by                 and three drinks. Zachary spends a total of $27.50
+       f(x) = 275 + 0.025x. Determine the value of x, in                for four bags of popcorn and two drinks. Write a
+       dollars, that will make their weekly pay the same.               system of equations that can be used to find the
+                                                                        price of one bag of popcorn and the price of one
+187 Albert says that the two systems of equations                       drink. Using these equations, determine and state
+       shown below have the same solutions.                             the price of a bag of popcorn and the price of a
+                                                                        drink, to the nearest cent.
+
+Determine and state whether you agree with Albert.               190 An animal shelter spends $2.35 per day to care for
+Justify your answer.                                                    each cat and $5.50 per day to care for each dog.
+                                                                        Pat noticed that the shelter spent $89.50 caring for
+                                                                        cats and dogs on Wednesday. Write an equation to
+                                                                        represent the possible numbers of cats and dogs
+                                                                        that could have been at the shelter on Wednesday.
+                                                                        Pat said that there might have been 8 cats and 14
+                                                                        dogs at the shelter on Wednesday. Are Pat's
+                                                                        numbers possible? Use your equation to justify
+                                                                        your answer. Later, Pat found a record showing
+                                                                        that there were a total of 22 cats and dogs at the
+                                                                        shelter on Wednesday. How many cats were at the
+                                                                        shelter on Wednesday?
+
+                                                             38
+Algebra I Regents Exam Questions by Common Core State Standard: Topic
+
+www.jmap.org
+
+191 A local business was looking to hire a landscaper           192 Next weekend Marnie wants to attend either
+       to work on their property. They narrowed their                  carnival A or carnival B. Carnival A charges $6 for
+       choices to two companies. Flourish Landscaping                  admission and an additional $1.50 per ride.
+       Company charges a flat rate of $120 per hour.                   Carnival B charges $2.50 for admission and an
+       Green Thumb Landscapers charges $70 per hour                    additional $2 per ride.
+       plus a $1600 equipment fee. Write a system of                  a) In function notation, write A(x) to represent the
+       equations representing how much each company
+       charges. Determine and state the number of hours                total cost of attending carnival A and going on x
+       that must be worked for the cost of each company               rides. In function notation, write B(x) to represent
+       to be the same. [The use of the grid below is
+       optional.] If it is estimated to take at least 35 hours         the total cost of attending carnival B and going on x
+       to complete the job, which company will be less                 rides.
+       expensive? Justify your answer.                                 b) Determine the number of rides Marnie can go on
+                                                                       such that the total cost of attending each carnival is
+                                                                       the same. [Use of the set of axes below is
+                                                                       optional.]
+                                                                       c) Marnie wants to go on five rides. Determine
+                                                                       which carnival would have the lower total cost.
+                                                                       Justify your answer.
+
+                                                                     193 Mo's farm stand sold a total of 165 pounds of
+                                                                            apples and peaches. She sold apples for $1.75 per
+                                                                            pound and peaches for $2.50 per pound. If she
+                                                                            made $337.50, how many pounds of peaches did
+                                                                            she sell?
+                                                                            1 11
+                                                                            2 18
+                                                                            3 65
+                                                                            4 100
+
+                                                                39
+Algebra I Regents Exam Questions by Common Core State Standard: Topic
+
+www.jmap.org
+
+194 Last week, a candle store received $355.60 for                197 Edith babysits for x hours a week after school at a
+       selling 20 candles. Small candles sell for $10.98                 job that pays $4 an hour. She has accepted a job
+       and large candles sell for $27.98. How many large                 that pays $8 an hour as a library assistant working y
+       candles did the store sell?                                       hours a week. She will work both jobs. She is able
+       16                                                                to work no more than 15 hours a week, due to
+       28                                                                school commitments. Edith wants to earn at least
+       3 10                                                              $80 a week, working a combination of both jobs.
+       4 12                                                              Write a system of inequalities that can be used to
+                                                                         represent the situation. Graph these inequalities on
+       A.CED.2: GRAPHING LINEAR SYSTEMS                                  the set of axes below.
+
+195 Rowan has $50 in a savings jar and is putting in $5
+       every week. Jonah has $10 in his own jar and is
+       putting in $15 every week. Each of them plots his
+       progress on a graph with time on the horizontal
+       axis and amount in the jar on the vertical axis.
+       Which statement about their graphs is true?
+       1 Rowan's graph has a steeper slope than
+            Jonah's.
+       2 Rowan's graph always lies above Jonah's.
+       3 Jonah's graph has a steeper slope than
+            Rowan's.
+       4 Jonah's graph always lies above Rowan's.
+
+       A.CED.3: MODELING SYSTEMS OF LINEAR                        Determine and state one combination of hours that
+       INEQUALITIES                                               will allow Edith to earn at least $80 per week while
+                                                                  working no more than 15 hours.
+196 A high school drama club is putting on their annual
+       theater production. There is a maximum of 800
+       tickets for the show. The costs of the tickets are $6
+       before the day of the show and $9 on the day of the
+       show. To meet the expenses of the show, the club
+       must sell at least $5,000 worth of tickets.
+       a) Write a system of inequalities that represent this
+       situation.
+       b) The club sells 440 tickets before the day of the
+       show. Is it possible to sell enough additional
+       tickets on the day of the show to at least meet the
+       expenses of the show? Justify your answer.
+
+                                                              40
+Algebra I Regents Exam Questions by Common Core State Standard: Topic
+
+www.jmap.org
+
+ 198 An on-line electronics store must sell at least $2500
+        worth of printers and computers per day. Each
+        printer costs $50 and each computer costs $500.
+        The store can ship a maximum of 15 items per day.
+        On the set of axes below, graph a system of
+        inequalities that models these constraints.
+
+                                                                                     1
+
+Determine a combination of printers and computers              2
+that would allow the electronics store to meet all of          3
+the constraints. Explain how you obtained your                 4
+answer.
+
+A.REI.12: GRAPHING SYSTEMS OF LINEAR
+INEQUALITIES
+
+199 Which ordered pair is not in the solution set of
+
+y  >  -  1  x  +  5  and  y    3x  -  2?
+         2
+
+1 (5,3)
+
+2 (4,3)
+
+3 (3,4)
+
+4 (4,4)
+
+200 Given: y + x > 2
+
+                y  3x - 2
+       Which graph shows the solution of the given set of
+       inequalities?
+
+                                                           41
+Algebra I Regents Exam Questions by Common Core State Standard: Topic
+
+www.jmap.org
+
+201 What is one point that lies in the solution set of the      202 The graph of an inequality is shown below.
+       system of inequalities graphed below?
+
+1 (7,0)                                                         a) Write the inequality represented by the graph.
+2 (3,0)                                                         b) On the same set of axes, graph the inequality
+3 (0,7)                                                         x + 2y < 4.
+4 (-3,5)
+                                                                c) The two inequalities graphed on the set of axes
+                                                                form a system. Oscar thinks that the point (2,1) is
+
+                                                                in the solution set for this system of inequalities.
+                                                                Determine and state whether you agree with Oscar.
+                                                                Explain your reasoning.
+
+                                                            42
+Algebra I Regents Exam Questions by Common Core State Standard: Topic
+
+www.jmap.org
+
+203 Which graph represents the solution of y  x + 3             A.REI.7, 11: QUADRATIC-LINEAR SYSTEMS
+      and y  -2x - 2?
+                                                         204 A company is considering building a
+       1                                                        manufacturing plant. They determine the weekly
+                                                               production cost at site A to be A(x) = 3x2 while the
+                                                               production cost at site B is B(x) = 8x + 3, where x
+                                                                represents the number of products, in hundreds,
+                                                               and A(x) and B(x) are the production costs, in
+                                                                hundreds of dollars. Graph the production cost
+                                                                functions on the set of axes below and label them
+                                                                site A and site B.
+
+2
+
+3
+
+4 State the positive value(s) of x for which the
+                                                                            production costs at the two sites are equal. Explain
+                                                                            how you determined your answer. If the company
+                                                                            plans on manufacturing 200 products per week,
+                                                                            which site should they use? Justify your answer.
+
+                                                     43
+Algebra I Regents Exam Questions by Common Core State Standard: Topic
+
+www.jmap.org
+
+205 Let f(x) = -2x2 and g(x) = 2x - 4. On the set of                             A.REI.11: NONLINEAR SYSTEMS
+      axes below, draw the graphs of y = f(x) and
+       y = g(x).                                                          208 Two functions, y = |x - 3| and 3x + 3y = 27, are
+                                                                                 graphed on the same set of axes. Which statement
+                                                                                 is true about the solution to the system of
+                                                                                 equations?
+                                                                                1 (3,0) is the solution to the system because it
+                                                                                      satisfies the equation y = |x - 3| .
+                                                                                2 (9,0) is the solution to the system because it
+                                                                                      satisfies the equation 3x + 3y = 27.
+                                                                                3 (6,3) is the solution to the system because it
+                                                                                      satisfies both equations.
+                                                                                4 (3,0), (9,0), and (6,3) are the solutions to the
+                                                                                      system of equations because they all satisfy at
+                                                                                      least one of the equations.
+
+     Using this graph, determine and state all values of
+     x for which f(x) = g(x).
+
+206 John and Sarah are each saving money for a car.
+       The total amount of money John will save is given
+      by the function f(x) = 60 + 5x. The total amount of
+
+       money Sarah will save is given by the function
+      g(x) = x2 + 46. After how many weeks, x, will they
+
+       have the same amount of money saved? Explain
+       how you arrived at your answer.
+
+207  If  f(x)  =  x2  - 2x  -8  and  g(x)  =  1  x  - 1,  for  which
+                                              4
+
+     value of x is f(x) = g(x)?
+
+     1 -1.75 and -1.438
+
+     2 -1.75 and 4
+
+     3 -1.438 and 0
+
+     4 4 and 0
+
+                                                                      44
+                                                                                                          ID: A
+
+Algebra I Regents Exam Questions by Common Core State Standard: Topic
+Answer Section
+
+1 ANS: 3
+
+16 +         9  =   7  may   be  expressed  as  the  ratio  of  two  integers.
+                    1
+
+PTS: 2                       REF: 061413ai NAT: N.RN.3                          TOP: Classifying Numbers
+                                                                                NAT: N.RN.3
+2 ANS: 1                     PTS: 2                  REF: 081401ai
+
+TOP: Classifying Numbers
+
+3 ANS:
+
+Correct. The sum of a rational and irrational is irrational.
+
+PTS: 2                       REF: 011525ai           NAT: N.RN.3                TOP: Classifying Numbers
+                                                     REF: 061508ai              NAT: N.RN.3
+4 ANS: 2                     PTS: 2
+
+TOP: Classifying Numbers
+
+5 ANS: 2
+
+1+        1      =  1  +  1  =  5
+ 4         9        2     3     6
+
+PTS: 2                       REF: 081522ai           NAT: N.RN.3                TOP: Classifying Numbers
+                                                     REF: 061401ai              NAT: A.REI.1
+6 ANS: 1                     PTS: 2
+
+TOP: Identifying Properties
+
+7 ANS:
+
+33 + 12   =  25%
+  180
+
+PTS: 2                       REF: 011526ai NAT: S.ID.5
+
+TOP: Frequency Histograms, Bar Graphs and Tables
+
+8 ANS:
+
+   PTS: 2                    REF: 061432ai NAT: S.ID.1                          TOP: Box Plots
+9 ANS: 3
+                          Mean              Q1 Median                              Q3 IQR
+     Semester 1           86.8              80.5 88                               92.5 12
+     Semester 2            87                80 88                                 92 12
+
+   PTS: 2                    REF: 061419ai NAT: S.ID.2                          TOP: Central Tendency and Dispersion
+
+                                                                1
+                                                                                               ID: A
+
+10 ANS: 3               median salary      Company 1             Company 2
+                         mean salary         33,500                36,250
+                  1      salary range        33,750                44,125
+                  2       mean age            8,000                36,000
+                  3                           28.25                 28.25
+                  4
+
+PTS: 2                 REF: 081404ai NAT: S.ID.2                 TOP: Central Tendency and Dispersion
+                                                                 NAT: S.ID.2
+11 ANS: 4              PTS: 2              REF: 011514ai
+                                                                 TOP: Central Tendency and Dispersion
+TOP: Central Tendency and Dispersion
+
+12 ANS: 1
+
+A: x = 6; x = 3.16 B: x = 6.875; x = 3.06
+
+PTS: 2                 REF: 081519ai       NAT: S.ID.2
+
+13 ANS: 3
+
+Median remains at 1.4.
+
+     PTS: 2            REF: 061520ai       NAT: S.ID.3           TOP: Central Tendency and Dispersion
+
+14 ANS:
+     y = 0.05x - 0.92
+
+PTS: 2                 REF: fall1307ai NAT: S.ID.6               TOP: Regression
+
+KEY: linear
+
+15 ANS:
+
+y = 836.47(2.05)x The data appear to grow at an exponential rate. y = 836.47(2.05)2  3515.
+
+PTS: 4                 REF: fall1313ai NAT: S.ID.6               TOP: Regression
+
+16 ANS: 4              PTS: 2              REF: 081421ai NAT: S.ID.6
+
+TOP: Regression KEY: linear
+
+17 ANS:
+
+y = 0.25(2)x . I inputted the four integral values from the graph into my graphing calculator and determined the
+
+exponential regression equation.
+
+PTS: 2                 REF: 011532ai NAT: S.ID.6                 TOP: Regression
+
+KEY: exponential
+
+18 ANS:
+
+y = 80(1.5)x 80(1.5)26  3,030,140. No, because the prediction at x = 52 is already too large.
+
+PTS: 4                 REF: 061536ai NAT: S.ID.6                 TOP: Regression
+
+KEY: exponential
+
+19 ANS:
+
+y = 0.16x + 8.27 r = 0.97, which suggests a strong association.
+
+PTS: 4                 REF: 081536ai NAT: S.ID.6                 TOP: Regression
+KEY: linear
+
+                                           2
+                                                                                          ID: A
+
+20 ANS: 3
+     A correlation coefficient close to ­1 or 1 indicates a good fit. For a residual plot, there should be no observable
+     pattern and a similar distribution of residuals above and below the x-axis.
+
+     PTS: 2        REF: fall1303ai NAT: S.ID.6  TOP: Correlation Coefficient and Residuals
+21 ANS:
+
+y = 6.32x + 22.43                           Based on the residual plot, the equation is a good fit for the data
+
+because the residual values are scattered without a pattern and are fairly evenly distributed above and below the
+
+x-axis.
+
+     PTS: 4        REF: fall1314ai NAT: S.ID.6  TOP: Correlation Coefficient and Residuals
+22 ANS:
+
+                           The line is a poor fit because the residuals form a pattern.
+
+PTS: 2             REF: 081431ai NAT: S.ID.6    TOP: Correlation Coefficient and Residuals
+
+23 ANS:
+
+Graph A is a good fit because it does not have a clear pattern, whereas Graph B does.
+
+PTS: 2             REF: 061531ai NAT: S.ID.6    TOP: Correlation Coefficient and Residuals
+
+24 ANS: 3          PTS: 2  REF: 061411ai NAT: S.ID.8
+
+TOP: Correlation Coefficient and Residuals
+
+25 ANS:
+
+r  0.94. The correlation coefficient suggests that as calories increase, so does sodium.
+
+PTS: 4             REF: 011535ai NAT: S.ID.8    TOP: Correlation Coefficient and Residuals
+
+                                            3
+                                                                                                                                           ID: A
+
+26 ANS: 2                         PTS: 2                       REF: 061516ai NAT: S.ID.9
+
+TOP: Analysis of Data
+
+27 ANS: 4
+
+Over  the   interval    0         x    3,  the  average  rate  of  change  for  h(x)  =  9-  2  =  7  ,  f(x)  =  7-  1  =  6  =  2,  and
+                                                                                         3-  0     3              3-  0     3
+
+g(x)  =  3  -  0  =  3  =     1.
+         3  -  0     3
+
+PTS: 2                            REF: spr1301ai               NAT: F.IF.6               TOP: Rate of Change
+
+28 ANS: 1
+
+110 - 40    >     350 - 230
+  2-1               8-6
+
+         70 > 60
+
+PTS: 2                            REF: 061418ai                NAT: F.IF.6               TOP: Rate of Change
+
+29 ANS: 4
+
+4.7 - 2.3   =     2.4   =  -0.04.
+20 - 80           -60
+
+PTS: 2                            REF: 081414ai                NAT: F.IF.6               TOP: Rate of Change
+
+30 ANS: 1
+
+0.8(102 ) - 0.8(52 )       =      80 - 20  =    12
+       10 - 5                        5
+
+PTS: 2                            REF: 011521ai                NAT: F.IF.6               TOP: Rate of Change
+
+31 ANS: 3
+
+36.6 - 15      =  21.6     =  5.4
+  4-0              4
+
+PTS: 2                            REF: 061511ai                NAT: F.IF.6               TOP: Rate of Change
+                                                               REF: 081515ai             NAT: F.IF.6
+32 ANS: 1                         PTS: 2
+                                                               REF: 011502ai             NAT: N.Q.1
+TOP: Rate of Change
+                                                               REF: 081503ai             NAT: A.SSE.1
+33 ANS: 2                         PTS: 2
+
+TOP: Conversions
+
+34 ANS: 4                         PTS: 2
+
+TOP: Modeling Expressions
+
+                                                                   4
+                                                                                                         ID: A
+
+35 ANS: 1
+    x           
+7      +    9      =  20
+3           28
+
+      7  x  +   3  =  80
+      3         4     4
+
+            7   x  =  77
+            3         4
+
+                x  =  33  =  8.25
+                      4
+
+PTS: 2                          REF: 061405ai             NAT: A.REI.3   TOP: Solving Linear Equations
+
+KEY: fractional expressions                                              TOP: Solving Linear Equations
+                                                                         NAT: A.CED.1
+36 ANS: 1                                                                NAT: A.CED.1
+
+   x  -2    =   4                                                        TOP: Modeling Linear Equations
+      3         6
+                                                                         TOP: Modeling Linear Equations
+6x - 12 = 12                                                             NAT: A.SSE.1
+                                                                         NAT: F.LE.5
+       6x = 24
+
+         x=4
+
+PTS: 2                          REF: 081420ai             NAT: A.REI.3
+                                                          REF: 061416ai
+KEY: fractional expressions                               REF: 061422ai
+
+37 ANS: 2                       PTS: 2
+
+TOP: Modeling Linear Equations
+
+38 ANS: 4                       PTS: 2
+
+TOP: Modeling Linear Equations
+
+39 ANS:
+
+15x + 36 = 10x + 48
+
+         5x = 12
+
+          x = 2.4
+
+PTS: 2                          REF: 011531ai NAT: A.CED.1
+
+40 ANS:                             6     
+
+12x   +  9(2x)     +  5(3x)  =  15     1    =  2  pounds
+                        45x  =  15     3
+
+                          x  =  1
+                                3
+
+PTS: 2                          REF: spr1305ai            NAT: A.CED.3
+                                                          REF: 011501ai
+41 ANS: 2                       PTS: 2
+                                                          REF: 061407ai
+TOP: Modeling Linear Functions
+
+42 ANS: 3                       PTS: 2
+
+TOP: Modeling Linear Functions
+
+                                                          5
+                                                                                                         ID: A
+
+43 ANS: 2                   PTS: 2           REF: 081402ai NAT: F.LE.5
+
+TOP: Modeling Linear Functions
+
+44 ANS: 3                   PTS: 2           REF: 061501ai NAT: F.LE.5
+
+TOP: Modeling Linear Functions
+
+45 ANS:
+
+A(n) = 175 - 2.75n 0 = 175 - 2.75n After 63 weeks, Caitlin will not have enough money to rent another movie.
+
+                           2.75n = 175
+
+                           n = 63.6
+
+PTS: 4                      REF: 061435ai    NAT: F.BF.1                 TOP: Modeling Linear Functions
+
+46 ANS:
+     f(x) = 6.50x + 4(12)
+
+PTS: 2                      REF: 061526ai    NAT: F.BF.1                 TOP: Modeling Linear Functions
+                                             REF: 081508ai               NAT: F.BF.1
+47 ANS: 4                   PTS: 2
+
+TOP: Modeling Linear Functions
+
+48 ANS:
+     h(n) = 1.5(n - 1) + 3
+
+PTS: 2                      REF: 081525ai    NAT: F.BF.1                 TOP: Modeling Linear Functions
+
+49 ANS:
+
+T(d) = 2d + 28 T(6) = 2(6) + 28 = 40
+
+PTS: 2                      REF: 081532ai    NAT: A.CED.1                TOP: Modeling Linear Functions
+                                             REF: 011523ai               NAT: A.CED.2
+50 ANS: 4                   PTS: 2
+
+TOP: Modeling Linear Functions
+
+51 ANS:
+
+                                           C (x) =  10  x  180 =  10  x
+                                                    3             3
+
+                                                           540 = 10x
+
+                                                           54 = x
+
+PTS: 4                      REF: fall1308ai  NAT: A.CED.2 TOP: Graphing Linear Functions
+                                             REF: 081413ai NAT: A.CED.2
+52 ANS: 2                   PTS: 2           KEY: bimodalgraph
+
+TOP: Graphing Linear Functions
+
+                                                           6
+                                                                                                        ID: A
+
+53 ANS:
+
+                                No, because (3,2) is not on the graph.
+
+PTS: 2                       REF: 061429ai NAT: A.REI.10                TOP: Graphing Linear Functions
+
+54 ANS: 4
+
+m=  11 - 1         =  10  =  2  y = mx + b  y = 2x + 5
+    3 - (-2)          5
+
+                                11 = 2(3) + b 9 = 2(2) + 5
+
+                                5=b
+
+     PTS: 2                  REF: 011511ai NAT: A.REI.10 TOP: Graphing Linear Functions
+55 ANS: 1
+
+     4x - 5(0) = 40
+
+             4x = 40
+
+              x = 10
+
+     PTS: 2                  REF: 081408ai NAT: F.IF.4                  TOP: Graphing Linear Functions
+56 ANS: 4
+
+     y + 3 = 6(0)
+
+         y = -3
+
+PTS: 2                       REF: 011509ai  NAT: F.IF.4                 TOP: Graphing Linear Functions
+
+57 ANS: 1
+
+    V    =  1  r2h
+            3
+
+    3V = r2 h
+
+3V       = r2
+h
+
+3V       =r
+h
+
+PTS: 2                       REF: 061423ai NAT: A.CED.4 TOP: Transforming Formulas
+
+                                                            7
+                                                                                                  ID: A
+
+58 ANS:
+
+A=  1    h(b 1  +   b  2)  b1  =  2(60)  - 12 = 20 - 12 = 8
+    2                               6
+
+2A  =    b1  + b2
+h
+
+2A  -    b2  =  b1
+h
+
+PTS: 4                         REF: 081434ai  NAT: A.CED.4      TOP: Transforming Formulas
+                                              REF: 011516ai     NAT: A.CED.4
+59 ANS: 1                      PTS: 2
+                                                                TOP: Transforming Formulas
+TOP: Transforming Formulas
+                                                                TOP: Transforming Formulas
+60 ANS: 2                                                       TOP: Solving Linear Inequalities
+
+    d    =   1  at2
+             2
+
+    2d = at2
+
+    2d   = t2
+    a
+
+2d       =t
+a
+
+PTS: 2                         REF: 061519ai  NAT: A.CED.4
+
+61 ANS:
+
+V   =    r2h       d=2          66  5
+h         h                    3.3
+
+V   =    r2
+h
+
+V        =r
+h
+
+PTS: 4                         REF: 081535ai  NAT: A.CED.4
+
+62 ANS:
+
+2(-1) + a(-1) - 7 > -12 a = 2
+
+                -a - 9 > -12
+
+                    -a > -3
+
+                       a<3
+
+PTS: 2                         REF: 061427ai NAT: A.REI.3
+
+                                                             8
+                                                                                                  ID: A
+
+63 ANS:
+     6. 3x + 9  5x - 3
+
+            12  2x
+
+              6x
+
+PTS: 2                    REF: 081430ai NAT: A.REI.3         TOP: Solving Linear Inequalities
+
+64 ANS: 1
+
+7  -  2  x  <  x  -  8
+      3
+
+      15    <  5  x
+               3
+
+         9<x
+
+PTS: 2                    REF: 011507ai NAT: A.REI.3         TOP: Solving Linear Inequalities
+
+65 ANS:
+
+-3x + 7 - 5x < 15 0 is the smallest integer.
+
+            -8x < 8
+
+               x > -1
+
+PTS: 2                    REF: 061530ai NAT: A.REI.3         TOP: Solving Linear Inequalities
+
+66 ANS:
+
+7x - 3(4x - 8)  6x + 12 - 9x 6, 7, 8 are the numbers greater than or equal to 6 in the interval.
+
+7x - 12x + 24  -3x + 12
+
+      -5x + 24  -3x + 12
+
+                  12  2x
+
+                  6x
+
+PTS: 4                    REF: 081534ai       NAT: A.REI.3   TOP: Solving Linear Inequalities
+
+67 ANS:
+
+8x + 11y  200 8x + 11(15)  200
+
+                        8x + 165  200
+
+                        8x  35
+
+                        x  4.375
+
+                        5 hours
+
+PTS: 4                    REF: fall1309ai     NAT: A.CED.3   TOP: Modeling Linear Inequalities
+                                              REF: 011513ai  NAT: A.CED.3
+68 ANS: 3                 PTS: 2
+
+TOP: Modeling Linear Inequalities
+
+                                              9
+                                                                                           ID: A
+
+69 ANS: 4
+
+750 + 2.25p             750 + 2.25p
+p > 2.75                p < 3.25
+
+750 + 2.25p > 2.75p 750 + 2.25p < 3.25p
+
+             750 >.50p  750 < p
+
+         1500 > p
+
+PTS: 2                  REF: 061524ai    NAT: A.CED.3   TOP: Modeling Linear Inequalities
+                                         REF: 081505ai  NAT: A.CED.3
+70 ANS: 4               PTS: 2
+                                         REF: 061505ai  NAT: A.REI.12
+TOP: Modeling Linear Inequalities
+
+71 ANS: 1               PTS: 2
+
+TOP: Graphing Linear Inequalities
+
+72 ANS:
+
+     PTS: 2             REF: 081526ai NAT: A.REI.12 TOP: Graphing Linear Inequalities
+73 ANS:
+
+                        Range: y  0. The function is increasing for x > -1.
+
+PTS: 4                  REF: fall1310ai NAT: F.IF.7     TOP: Graphing Absolute Value Functions
+
+                                         10
+                                                                                   ID: A
+
+74 ANS:
+      8m2 + 20m - 12 = 0
+
+4(2m2 + 5m - 3) = 0
+
+(2m - 1)(m + 3) = 0
+
+           m   =         1  , -3
+                         2
+
+PTS: 2                      REF: fall1305ai NAT: A.SSE.3  TOP: Solving Quadratics
+                                                          NAT: A.SSE.3
+75 ANS: 3                   PTS: 2         REF: 061412ai  TOP: Solving Quadratics
+                                                          NAT: A.SSE.3
+TOP: Solving Quadratics
+                                                          TOP: Solving Quadratics
+76 ANS:
+                                                          TOP: Solving Quadratics
+x2 + 10x + 24 = (x + 4)(x + 6) = (x + 6)(x + 4). 6 and 4
+                                                          TOP: Solving Quadratics
+PTS: 2                      REF: 081425ai  NAT: A.SSE.3
+                                           REF: 011503ai
+77 ANS: 4                   PTS: 2
+
+TOP: Solving Quadratics
+
+78 ANS: 4
+
+3x2 - 3x - 6 = 0
+
+3(x2 - x - 2) = 0
+
+3(x - 2)(x + 1) = 0
+
+           x = 2,-1
+
+     PTS: 2                 REF: 081513ai  NAT: A.SSE.3
+79 ANS: 1
+
+         x2 - 12x + 7
+
+     x2 - 12x + 36 - 29
+
+        (x - 6)2 - 29
+
+PTS: 2                      REF: 081520ai  NAT: A.SSE.3
+
+KEY: completing the square
+
+80 ANS: 1
+
+x2 - 6x = 19
+
+x2 - 6x + 9 = 19 + 9
+
+(x - 3)2 = 28
+
+         x-3= ± 47
+
+           x =3±2 7
+
+PTS: 2                      REF: fall1302ai NAT: A.REI.4
+
+KEY: completing the square
+
+                                           11
+                                                                                ID: A
+
+81 ANS:
+
+1  x2  -  4  =  0
+2
+
+   x2 - 8 = 0
+
+       x2 = 8
+
+          x = ±2 2
+
+PTS: 2                REF: fall1306ai  NAT: A.REI.4    TOP: Solving Quadratics
+
+KEY: taking square roots
+
+82 ANS: 2
+
+   x2 - 6x = 12
+
+x2 - 6x + 9 = 12 + 9
+
+   (x - 3)2 = 21
+
+PTS: 2                REF: 061408ai    NAT: A.REI.4    TOP: Solving Quadratics
+
+KEY: completing the square
+
+83 ANS: 2
+
+   x2 + 4x = 16
+
+x2 + 4x + 4 = 16 + 4
+
+   (x + 2)2 = 20
+
+         x+2= ± 45
+
+                = -2 ± 2 5
+
+PTS: 2                REF: 061410ai NAT: A.REI.4       TOP: Solving Quadratics
+
+KEY: completing the square
+
+84 ANS:
+
+m(x) = (3x - 1)(3 - x) + 4x2 + 19 x2 + 10x + 16 = 0
+
+m(x) = 9x - 3x2 - 3 + x + 4x2 + 19 (x + 8)(x + 2) = 0
+
+m(x) = x2 + 10x + 16                   x = -8,-2
+
+PTS: 4                REF: 061433ai    NAT: A.REI.4    TOP: Solving Quadratics
+
+KEY: factoring
+
+85 ANS: 3             PTS: 2           REF: 081403ai NAT: A.REI.4
+                                       KEY: taking square roots
+TOP: Solving Quadratics
+
+                                       12
+                                                                                                                   ID: A
+
+86 ANS:
+
+                                                                                                           6    2
+                                                                                                           2
+Since (x + p)2 = x2 + 2px + p 2, p is half the coefficient of x, and the constant term is equal to  p2.            =  9
+
+PTS: 2                        REF: 081432ai  NAT: A.REI.4  TOP: Solving Quadratics
+
+KEY: completing the square
+
+87 ANS: 4
+
+    x2 + 6x = 7
+
+x2 + 6x + 9 = 7 + 9
+
+    (x + 3)2 = 16
+
+PTS: 2                        REF: 011517ai  NAT: A.REI.4  TOP: Solving Quadratics
+
+KEY: completing the square
+
+88 ANS:
+
+            4x2 - 12x - 7 = 0
+
+(4x2 - 14x) + (2x - 7) = 0
+
+2x(2x - 7) + (2x - 7) = 0
+
+         (2x + 1)(2x - 7) = 0
+
+                           x=  -  1  ,  7
+                                  2     2
+
+     PTS: 2                   REF: 011529ai  NAT: A.REI.4  TOP: Solving Quadratics
+     KEY: factoring
+
+89 ANS: 4
+           x2 - 5x = -3
+
+x2  - 5x  +    25  =  -12  +  25
+               4       4      4
+
+     x   -  5   2  =  13
+            2         4
+
+PTS: 2                        REF: 061518ai  NAT: A.REI.4  TOP: Solving Quadratics
+
+KEY: completing the square
+
+90 ANS: 1                     PTS: 2         REF: 061521ai NAT: A.REI.4
+                                             KEY: completing the square
+TOP: Solving Quadratics
+
+                                             13
+                                                                             ID: A
+
+91 ANS: 1
+     x2 - 8x + 16 = 24 + 16
+          (x - 4)2 = 40
+
+             x - 4 = ± 40
+
+                  x = 4 ± 2 10
+
+PTS: 2                 REF: 061523ai NAT: A.REI.4   TOP: Solving Quadratics
+
+KEY: completing the square
+
+92 ANS: 3              PTS: 2         REF: 081523ai NAT: A.REI.4
+
+TOP: Solving Quadratics               KEY: completing the square
+
+93 ANS: 3              PTS: 2         REF: 081409ai NAT: A.CED.1
+
+TOP: Modeling Quadratics
+
+94 ANS: 4              PTS: 2         REF: spr1304ai NAT: A.CED.1
+
+TOP: Geometric Applications of Quadratics
+
+95 ANS:
+
+(2x + 16)(2x + 12) = 396. The length, 2x + 16, and the width, 2x + 12, are multiplied and set equal to the area.
+
+(2x + 16)(2x + 12) = 396
+
+4x2 + 24x + 32x + 192 = 396
+
+         4x2 + 56x - 204 = 0
+
+         x2 + 14x - 51 = 0
+
+         (x + 17)(x - 3) = 0
+
+           x = 3 = width
+
+PTS: 4                 REF: 061434ai  NAT: A.CED.1  TOP: Geometric Applications of Quadratics
+
+96 ANS:
+
+         w(w + 40) = 6000
+
+w2 + 40w - 6000 = 0
+
+(w + 100)(w - 60) = 0
+
+           w = 60, l = 100
+
+PTS: 4                 REF: 081436ai NAT: A.CED.1 TOP: Geometric Applications of Quadratics
+
+                                           14
+                                                                                                                    ID: A
+
+97 ANS:
+     (x - 3)(2x) = 1.25x2 Because the original garden is a square, x2 represents the original area, x - 3 represents the
+     side decreased by 3 meters, 2x represents the doubled side, and 1.25x2 represents the new garden with an area
+     25% larger. (x - 3)(2x) = 1.25x2 1.25(8)2 = 80
+
+                       2x2 - 6x = 1.25x2
+
+                     .75x2 - 6x = 0
+
+                        x2 - 8x = 0
+
+                        x(x - 8) = 0
+
+                               x=8
+
+PTS: 6                REF: 011537ai NAT: A.CED.1 TOP: Geometric Applications of Quadratics
+
+98 ANS:  l        
+
+34  =       1  l
+            2
+
+68 = l2
+
+8.2  l
+
+4.1  w
+
+PTS: 2                REF: 061532ai NAT: A.CED.1 TOP: Geometric Applications of Quadratics
+
+99 ANS:
+
+(2x + 8)(2x + 6) = 100 The frame has two parts added to each side, so 2x must be added to the length and width.
+
+4x2 + 28x + 48 = 100
+
+    x2 + 7x - 13 = 0
+
+                                                                             -7 ±  72 - 4(1)(-13)  =  -7 +     101   1.5
+Multiply length and width to find area and set equal to 100. x =                    2(1)                    2
+
+PTS: 6                REF: 081537ai  NAT: A.CED.1   TOP: Geometric Applications of Quadratics
+                                     REF: 081405ai  NAT: A.REI.10
+100 ANS: 4            PTS: 2
+                                     REF: 061409ai  NAT: F.IF.4
+TOP: Graphing Quadratic Functions
+
+101 ANS: 3            PTS: 2
+
+TOP: Graphing Quadratic Functions
+
+                                     15
+                                                                                                                                       ID: A
+
+102 ANS:
+
+                                                        -  2             2        225                        1             2
+                                                           3             3         2                        225            3
+                                            x  =                =     -       -          =  75    y=  -          (75)2  +     (75)  =  -25 + 50 = 25
+                                                  2 -    1    
+                                                        225
+
+(75,25) represents the horizontal distance (75) where the football is at its greatest height (25). No, because the
+
+ball is less than 10 feet high  y=  -   1   (135) 2  +  2  (135)   =  -81 + 90 = 9
+                                       225              3
+
+       PTS: 6           REF: 061537ai NAT: F.IF.4                                    TOP: Graphing Quadratic Functions
+103 ANS:
+                       0  t  4 The rocket launches at t = 0 and lands at t = 4
+      -16t2 + 64t = 0
+
+-16t(t - 4) = 0
+
+          t = 0,4
+
+PTS: 2                  REF: 081531ai NAT: F.IF.4                                    TOP: Graphing Quadratic Functions
+
+104 ANS:
+
+The vertex represents a maximum since a < 0. f(x) = -x2 + 8x + 9
+
+                                                              = -(x2 - 8x - 9)
+
+                                                              = -(x2 - 8x + 16) + 9 + 16
+
+                                                              = -(x - 4)2 + 25
+
+PTS: 4                  REF: 011536ai NAT: F.IF.8                                    TOP: Graphing Quadratic Functions
+
+105 ANS:
+
+g.  The   maximum of f  is 6.   For g, the maximum is 11.          x  =     -b    =      -4       =   -4    =  4
+                                                                            2a       2                -1
+                                                                                         -  1
+                                                                                            2
+
+                                                                   y=       -  1  (4) 2  +  4(4)  +   3  =  -8 + 16 + 3 = 11
+                                                                               2
+
+PTS: 2                  REF: 081429ai NAT: F.IF.9                                    TOP: Graphing Quadratic Functions
+
+                                                              16
+                                                                                                                                                    ID: A
+
+106 ANS: 3                                                                                                      Maximum of g(x) < 5
+      h(x) = -x2 + x + 6 Maximum of f(x) = 9 k(x) = -5x2 - 12x + 4
+
+    x  =   -1      =     1                                       x  =   12       =  -  6
+          2(-1)          2                                             2(-5)           5
+
+          -  1     2     1                                             -5 -   6     2     12 -     6  
+             2           2                                                    5                    5
+    y  =              +     +6                                   y=                    -                +  4
+
+       =  -  1  +  2  +  6                                          =  -  36  +  72    +  20
+             4     4                                                      5      5        5
+
+       =  6  1                                                      =  56
+             4                                                         5
+
+                                                                    =  11  1
+                                                                           5
+
+PTS: 2                           REF: 061514ai NAT: F.IF.9                                   TOP: Graphing Quadratic Functions
+
+107 ANS: 4
+
+    g(1) - g(-1)            4-6        -2                                  -(-1)             1             1    =-     1    2     1              1
+       1 - -1                 2        2                                   2(-1)             2             2           2          2              4
+1)                       =          =        =  -1  2) g(0) = 6  3) x =                =  -     ;  g    -           -          +     +  6  =  6
+
+    n(1) -   n(-1)       =  9-   5  =  4  =  2      n(0) = 8
+       1-    -1               2        2                          x = 1; n(1) = 9
+
+           -(-1)
+4) g:S = -1 = -1
+
+       n: S = -2 + 4 = 2
+
+PTS: 2                           REF: 081521ai NAT: F.IF.9                                   TOP: Graphing Quadratic Functions
+
+108 ANS:
+
+b 2 - 4ac = (-2)2 - 4(1)(5) = 4 - 20 = -16 None
+
+PTS: 2                           REF: 081529ai NAT: A.REI.4                                  TOP: Using the Discriminant
+
+109 ANS: 2                       PTS: 2             REF: 061403ai NAT: A.APR.1
+
+TOP: Operations with Polynomials                    KEY: subtraction
+
+110 ANS: 2
+
+P(x) = -0.5x2 + 800x - 100 - (300x + 250) = -0.5x2 + 500x - 350
+
+PTS: 2                           REF: 081406ai      NAT: A.APR.1                             TOP: Operations with Polynomials
+
+KEY: subtraction
+
+                                                                       17
+                                                                                                              ID: A
+
+111 ANS:
+              (2x2 + 7x - 10)(x + 5)
+
+      2x3 + 7x2 - 10x + 10x2 + 35x - 50
+
+             2x3 + 17x2 + 25x - 50
+
+PTS: 2                        REF: 081428ai                  NAT: A.APR.1 TOP: Operations with Polynomials
+
+KEY: multiplication                                          REF: 011510ai NAT: A.APR.1
+                                                             KEY: multiplication
+112 ANS: 2                    PTS: 2
+
+TOP: Operations with Polynomials
+
+113 ANS:
+
+-2x2 + 6x + 4
+
+PTS: 2                        REF: 011528ai NAT: A.APR.1                    TOP: Operations with Polynomials
+
+KEY: subtraction
+
+114 ANS:
+
+(3x2 - 2x + 5) - (x2 + 3x - 2) = 2x2 - 5x + 7
+
+            1  x 2 (2x 2   -  5x  +  7)  =  x4  -  5  x3  +  7  x2
+            2                                      2         2
+
+PTS: 2                        REF: 061528ai NAT: A.APR.1 TOP: Operations with Polynomials
+
+KEY: mixed
+
+115 ANS: 4
+
+3(x2 - 4x + 4) - 2x + 2 = 3x2 - 12x + 12 - 2x + 2 = 3x2 - 14x + 14
+
+       PTS: 2                 REF: 081524ai                  NAT: A.APR.1   TOP: Operations with Polynomials
+       KEY: mixed
+
+116 ANS:
+           x 4 + 6x 2 - 7
+
+(x2 + 7)(x2 - 1)
+
+(x2 + 7)(x + 1)(x - 1)
+
+PTS: 2                        REF: 061431ai                  NAT: A.SSE.2   TOP: Factoring Polynomials
+                                                             REF: 081415ai  NAT: A.SSE.2
+117 ANS: 1                    PTS: 2
+
+TOP: Factoring Polynomials
+
+118 ANS: 3                    PTS: 2                         REF: 011522ai NAT: A.SSE.2
+
+TOP: Factoring Polynomials
+
+119 ANS: 2                    PTS: 2                         REF: 061503ai NAT: A.SSE.2
+
+TOP: Factoring Polynomials
+
+120 ANS: 3                    PTS: 2                         REF: 081509ai NAT: A.SSE.2
+
+TOP: Factoring Polynomials
+
+121 ANS: 3                    PTS: 2                         REF: spr1302ai NAT: A.APR.3
+                                                             KEY: bimodalgraph
+TOP: Zeros of Polynomials
+
+                                                                    18
+                                                            ID: A
+
+122 ANS: 2
+      (x + 4)(x + 6) = 0
+
+      x2 + 10x + 24 = 0
+
+       PTS: 2             REF: spr1303ai    NAT: A.APR.3    TOP: Zeros of Polynomials
+123 ANS: 4     (x + 2)2 - 25 = 0
+                                                            TOP: Zeros of Polynomials
+((x + 2) + 5))((x + 2) - 5)) = 0                            NAT: A.APR.3
+
+                                  x = -7,3                  TOP: Zeros of Polynomials
+                                                            TOP: Zeros of Polynomials
+PTS: 2                    REF: 081418ai     NAT: A.APR.3    NAT: A.APR.3
+                                            REF: 011524ai
+124 ANS: 1                PTS: 2                            TOP: Evaluating Exponential Expressions
+                                                            NAT: A.SSE.1
+TOP: Zeros of Polynomials
+                                                            TOP: Modeling Exponential Functions
+125 ANS: 4
+                                                            TOP: Modeling Exponential Functions
+x2 - 13x - 30 = 0                                           NAT: F.BF.1
+                                                            NAT: F.LE.2
+(x - 15)(x + 2) = 0
+
+               x = 15,-2
+
+PTS: 2                    REF: 061510ai     NAT: A.APR.3
+
+126 ANS: 2
+       y = (x - 3)(x + 2)(x - 1)
+
+PTS: 2                    REF: 061512ai NAT: A.APR.3
+
+127 ANS: 1                PTS: 2            REF: 081504ai
+
+TOP: Zeros of Polynomials
+
+128 ANS: 1
+
+25,000(0.86)2 - 25,000(0.86)3 = 18490 - 15901.40 = 2588.60
+
+PTS: 2                    REF: 011508ai     NAT: F.IF.8
+                                            REF: 061517ai
+129 ANS: 2                PTS: 2
+
+TOP: Modeling Exponential Functions
+
+130 ANS:
+
+A = 600(1.016)2  619.35
+
+       PTS: 2             REF: 061529ai     NAT: A.CED.1
+131 ANS:
+
+      B = 3000(1.042)t
+
+PTS: 2                    REF: 081426ai     NAT: F.BF.1
+                                            REF: 011504ai
+132 ANS: 1                PTS: 2
+                                            REF: 081507ai
+TOP: Modeling Exponential Functions
+
+133 ANS: 3                PTS: 2
+
+TOP: Modeling Exponential Functions
+
+                                            19
+                                                                                                          ID: A
+
+134 ANS: 3         PTS: 2            REF: 011515ai NAT: F.IF.8
+
+TOP: Modeling Exponential Functions
+
+135 ANS:
+
+0.5 represents the rate of decay and 300 represents the initial amount of the compound.
+
+PTS: 2             REF: 061426ai NAT: F.LE.5        TOP: Modeling Exponential Functions
+
+136 ANS:
+
+1 - 0.95 = 0.05 = 5% To find the rate of change of an equation in the form y = ab x , subtract b from 1.
+
+       PTS: 2      REF: 081530ai NAT: F.LE.5        TOP: Modeling Exponential Functions
+137 ANS: 4
+
+      162t = n 4t
+
+       162 = n 4
+
+       256 = n 4
+
+          4=n
+
+PTS: 2             REF: 011519ai NAT: A.SSE.3 TOP: Solving Exponential Equations
+
+138 ANS: 4         PTS: 2            REF: 061406ai NAT: F.LE.1
+
+TOP: Comparing Linear and Exponential Functions
+
+139 ANS:
+
+Exponential, because the function does not grow at a constant rate.
+
+PTS: 2             REF: 081527ai NAT: F.LE.1
+
+TOP: Comparing Linear and Exponential Functions
+
+140 ANS: 3         PTS: 2            REF: 061415ai  NAT: F.LE.2
+                                                    NAT: F.LE.2
+TOP: Comparing Linear and Exponential Functions
+
+141 ANS: 2         PTS: 2            REF: 061513ai
+
+TOP: Comparing Linear and Exponential Functions
+
+142 ANS: 1
+
+f(-1) < g(-1)
+
+3-1 < 2(-1) + 5
+
+1         <  3
+3
+
+PTS: 2             REF: 061515ai NAT: F.LE.3
+
+TOP: Comparing Linear and Exponential Functions
+
+                                     20
+                                                                                         ID: A
+
+143 ANS: 3
+
+               x          A = 5000x + 10000                B = 500(2)x - 1
+
+               6                40,000                         16,000
+               7                45,000                         32,000
+               8                50,000                         64,000
+               9                55,000                        128,000
+
+PTS: 2            REF: 081518ai NAT: F.LE.3
+
+TOP: Comparing Linear and Exponential Functions
+
+144 ANS:
+
+                  g(x) has a greater value: 220 > 202
+
+PTS: 4            REF: 081533ai NAT: F.LE.3
+
+TOP: Comparing Quadratic and Exponential Functions
+
+145 ANS:
+
+       PTS: 2     REF: fall1304ai NAT: F.IF.7              TOP: Graphing Root Functions
+146 ANS:
+
+PTS: 2            REF: 061425ai  NAT: F.IF.7               TOP: Graphing Root Functions
+                                 REF: 061420ai             NAT: F.IF.2
+147 ANS: 1        PTS: 2
+
+TOP: Functional Notation
+
+                                                       21
+                                                                                                   ID: A
+
+148 ANS:                            15(x - 40) + 400 = 445 Since w(x) > 400, x > 40. I substituted 445 for w(x) and solved
+              w(52) - w(38)
+
+15(52 - 40) + 400 - 10(38)                 15(x - 40) = 45
+
+   180 + 400 - 380                         x - 40 = 3
+
+                   200                            x = 43
+
+for x.
+
+PTS: 4                       REF: 061534ai        NAT: F.IF.2    TOP: Functional Notation
+
+149 ANS: 3
+
+2         1    +  3
+          2
+                          4     2
+6  1                 =  -2   =  -2  =  -1
+   2
+             -  5
+
+PTS: 2                       REF: 081512ai NAT: F.IF.2           TOP: Functional Notation
+
+150 ANS:
+
+Yes, because every element of the domain is assigned one unique element in the range.
+
+PTS: 2                       REF: 061430ai NAT: F.IF.1           TOP: Defining Functions
+
+151 ANS:
+
+(-4,1), because then every element of the domain is not assigned one unique element in the range.
+
+PTS: 2                       REF: 011527ai        NAT: F.IF.1    TOP: Defining Functions
+                                                  REF: 061504ai  NAT: F.IF.1
+152 ANS: 3                   PTS: 2
+                                                  REF: 081511ai  NAT: F.IF.1
+TOP: Defining Functions
+                                                  REF: 061417ai  NAT: F.IF.2
+153 ANS: 2                   PTS: 2
+
+TOP: Defining Functions
+
+154 ANS: 4                   PTS: 2
+
+TOP: Domain and Range
+
+155 ANS: 1
+
+f(2) = 0
+
+f(6) = 8
+
+PTS: 2                       REF: 081411ai        NAT: F.IF.2    TOP: Domain and Range
+                                                  REF: 061509ai  NAT: F.IF.2
+156 ANS: 4                   PTS: 2
+
+TOP: Domain and Range
+
+157 ANS: 4
+       There are no negative or fractional cars.
+
+PTS: 2                       REF: 061402ai NAT: F.IF.5           TOP: Domain and Range
+
+                                                            22
+                                                                                           ID: A
+
+158 ANS: 2
+          0 = -16t2 + 144
+
+      16t2 = 144
+
+         t2 = 9
+           t=3
+
+PTS: 2                     REF: 081423ai  NAT: F.IF.5    TOP: Domain and Range
+                                          REF: 011506ai  NAT: F.IF.5
+159 ANS: 2                 PTS: 2
+
+TOP: Domain and Range
+
+160 ANS: 3                 PTS: 2         REF: 081412ai NAT: F.LE.1
+
+TOP: Families of Functions
+
+161 ANS: 3                 PTS: 2         REF: 011505ai NAT: F.LE.1
+
+TOP: Families of Functions
+
+162 ANS: 3                 PTS: 2         REF: 081410ai NAT: F.LE.2
+                                          KEY: bimodalgraph
+TOP: Families of Functions
+
+163 ANS:
+
+                           (4,-1). f(x - 2) is a horizontal shift two units to the right.
+
+PTS: 2                     REF: 061428ai NAT: F.BF.3
+
+TOP: Transformations with Functions and Relations
+
+164 ANS: 1                 PTS: 2         REF: 081417ai  NAT: F.BF.3
+
+TOP: Transformations with Functions and Relations
+
+165 ANS:
+
+                                   2 down. 4 right.
+
+PTS: 4                     REF: 081433ai NAT: F.BF.3
+
+TOP: Transformations with Functions and Relations
+
+166 ANS: 2                 PTS: 2         REF: 011512ai  NAT: F.BF.3
+
+TOP: Transformations with Functions and Relations
+
+                                                     23
+                                                                                              ID: A
+
+167 ANS:
+
+                The graph has shifted three units to the right.
+
+PTS: 2      REF: 061525ai NAT: F.BF.3
+
+TOP: Transformations with Functions and Relations
+
+168 ANS: 2  PTS: 2                    REF: 081501ai           NAT: F.BF.3
+
+TOP: Transformations with Functions and Relations
+
+169 ANS:
+
+            At  6   hours,      3  1  inches  of  snow  have  fallen.
+                                   2
+
+PTS: 4      REF: spr1307ai            NAT: F.IF.4             TOP: Relating Graphs to Events
+                                      REF: 061502ai           NAT: F.IF.4
+170 ANS: 4  PTS: 2
+
+TOP: Relating Graphs to Events
+
+171 ANS:
+
+PTS: 2      REF: 081528ai NAT: F.IF.4                         TOP: Relating Graphs to Events
+
+                                                  24
+                                                                                                   ID: A
+
+172 ANS:
+
+                     Since according to the graph, 8 pencils cost $14 and 10 pencils cost $12.50, the
+
+cashier is correct.
+
+PTS: 4               REF: fall1312ai NAT: F.IF.7         TOP: Graphing Piecewise-Defined Functions
+                                                         NAT: F.IF.7
+173 ANS: 2           PTS: 2           REF: 081422ai
+
+TOP: Graphing Piecewise-Defined Functions
+
+174 ANS:
+
+PTS: 2               REF: 011530ai NAT: F.IF.7           TOP: Graphing Piecewise-Defined Functions
+                                                         NAT: F.IF.7
+175 ANS: 2           PTS: 2           REF: 081516ai      KEY: bimodalgraph
+
+TOP: Graphing Piecewise-Defined Functions
+
+176 ANS:
+
+                             The cost for each additional hour increases after the first 2 hours.
+
+PTS: 4               REF: fall1311ai  NAT: F.IF.7        TOP: Graphing Step Functions
+
+177 ANS: 1           PTS: 2           REF: 061507ai NAT: F.IF.7
+
+TOP: Graphing Step Functions          KEY: bimodalgraph
+
+                                           25
+                                                                                        ID: A
+
+178 ANS: 4             PTS: 2           REF: 061421ai      NAT: F.IF.3
+
+TOP: Sequences
+
+179 ANS: 4
+
+f(1) = 3; f(2) = -5; f(3) = 11; f(4) = -21; f(5) = 43
+
+PTS: 2                 REF: 081424ai    NAT: F.IF.3        TOP: Sequences
+
+180 ANS: 3
+
+f(0 + 1) = -2f(0) + 3 = -2(2) + 3 = -1
+
+f(1 + 1) = -2f(1) + 3 = -2(-1) + 3 = 5
+
+       PTS: 2          REF: 011520ai    NAT: F.IF.3        TOP: Sequences
+181 ANS: 1             PTS: 2           REF: 081514ai      NAT: F.IF.3
+
+       TOP: Sequences  PTS: 2           REF: 061424ai      NAT: F.LE.2
+182 ANS: 2
+                       PTS: 2           REF: 081416ai      NAT: F.LE.2
+       TOP: Sequences
+183 ANS: 2             PTS: 2           REF: 061522ai      NAT: F.BF.2
+
+       TOP: Sequences
+184 ANS: 3
+
+       TOP: Sequences
+185 ANS: 2
+
+      2(3x - y = 4)
+
+       6x - 2y = 8
+
+PTS: 2                 REF: 061414ai    NAT: A.REI.5       TOP: Solving Linear Systems
+
+186 ANS:
+
+185 + 0.03x = 275 + 0.025x
+
+0.005x = 90
+
+            x = 18000
+
+       PTS: 2          REF: 081427ai NAT: A.REI.6          TOP: Solving Linear Systems
+
+187 ANS:               -8.5y = -51 Agree, as both systems have the same solution.
+      24x + 27y = 144
+
+24x + 10y = 42         y=6
+
+          17y = 102 8x + 9(6) = 48
+
+          y=6          8x = -6
+
+8x + 9(6) = 48         x=   -  3
+       8x = -6                 4
+
+          x=  -  3
+                 4
+
+PTS: 4                 REF: 061533ai    NAT: A.REI.6       TOP: Solving Linear Systems
+                                        REF: 081419ai      NAT: A.CED.2
+188 ANS: 4             PTS: 2
+
+TOP: Modeling Linear Systems
+
+                                                       26
+                                                                                                         ID: A
+
+189 ANS:
+      2p + 3d = 18.25 4p + 6d = 36.50 4p + 2(2.25) = 27.50
+
+4p + 2d = 27.50 4p + 2d = 27.50        4p = 23
+
+                    4d = 9             p = 5.75
+
+                    d = 2.25
+
+PTS: 2              REF: 011533ai NAT: A.CED.2 TOP: Modeling Linear Systems
+
+190 ANS:
+
+2.35c + 5.50d = 89.50 Pat's numbers are not possible: 2.35(8) + 5.50(14)  89.50  c + d = 22
+
+                                                            18.80 + 77.00  89.50 2.35c + 5.50(22 - c) = 89.50
+
+                                                            95.80  89.50 2.35c + 121 - 5.50c = 89.50
+
+                                                                                 -3.15c = -31.50
+
+                                                                                          c = 10
+
+       PTS: 4       REF: 061436ai NAT: A.CED.3 TOP: Modeling Linear Systems
+191 ANS:
+
+y = 120x and y = 70x + 1600                                 120x = 70x + 1600
+                                                             50x = 1600
+
+                                                                x = 32
+
+y = 120(35) = 4200        Green Thumb is less expensive.
+
+y = 70(35) + 1600 = 4050
+
+PTS: 6              REF: fall1315ai NAT: A.REI.6            TOP: Modeling Linear Systems
+
+192 ANS:
+
+a) A(x) = 1.50x + 6 b) 1.50x + 6 = 2x + 2.50 c) A(x) = 1.50(5) + 6 = 13.50 Carnival B has a lower cost.
+
+B(x) = 2x + 2.50          .50x = 3.50  B(x) = 2(5) + 2.50 = 12.50
+
+                             x=7
+
+PTS: 6              REF: spr1308ai NAT: A.REI.6             TOP: Modeling Linear Systems
+
+                                                27
+                                                                                                    ID: A
+
+193 ANS: 3
+               a + p = 165 1.75(165 - p) + 2.5p = 337.5
+
+      1.75a + 2.5p = 337.5 288.75 - 1.75p + 2.5p = 337.5
+
+                                                   0.75p = 48.75
+
+                                                        p = 65
+
+PTS: 2                     REF: 061506ai NAT: A.REI.6                 TOP: Modeling Linear Systems
+
+194 ANS: 2
+
+               L + S = 20  27.98L + 10.98(20 - L) = 355.60
+
+27.98L + 10.98S = 355.60 27.98L + 219.60 - 10.98L = 355.60
+
+                                      17L = 136
+
+                                      L=8
+
+       PTS: 2              REF: 081510ai NAT: A.REI.6                 TOP: Modeling Linear Systems
+
+195 ANS: 3
+      15 > 5
+
+PTS: 2                     REF: 081502ai NAT: A.CED.2 TOP: Graphing Linear Systems
+
+196 ANS:
+
+a) p + d  800 b) 6(440) + 9d  5000 Since 440 + 263  800, it is possible.
+
+6p + 9d  5000 2640 + 9d  5000
+
+                           9d  2360
+
+                           d  262. 2
+
+       PTS: 2              REF: spr1306ai NAT: A.CED.3 TOP: Modeling Systems of Linear Inequalities
+197 ANS:
+
+x + y  15                                      One hour at school and eleven hours at the library.
+4x + 8y  80                REF: 081437ai NAT: A.CED.3 TOP: Modeling Systems of Linear Inequalities
+
+PTS: 6
+
+                                                                  28
+                                                                                                             ID: A
+
+198 ANS:
+
+                                            A combination of 2 printers and 10 computers meets all the constraints
+because (2,10) is in the solution set of the graph.
+
+PTS: 4               REF: 061535ai NAT: A.CED.3 TOP: Modeling Systems of Linear Inequalities
+
+199 ANS: 2
+
+(4, 3)  is  on  the  boundary  of  y  >  -  1  x  +  5,  so  (4, 3)  is  not  a  solution  of  the  system.
+                                            2
+
+PTS: 2               REF: fall1301ai NAT: A.REI.12                                         TOP: Graphing Systems of Linear Inequalities
+                                                                                           NAT: A.REI.12
+200 ANS: 2           PTS: 2                                  REF: 061404ai                 KEY: bimodalgraph
+                                                                                           NAT: A.REI.12
+TOP: Graphing Systems of Linear Inequalities
+
+201 ANS: 1           PTS: 2                                  REF: 081407ai
+
+TOP: Graphing Systems of Linear Inequalities
+
+202 ANS:
+
+y  2x - 3.                               Oscar is wrong. (2) + 2(1) < 4 is not true.
+
+PTS: 4               REF: 011534ai NAT: A.REI.12                                           TOP: Graphing Systems of Linear Inequalities
+                                                                                           NAT: A.REI.12
+203 ANS: 3           PTS: 2                                  REF: 081506ai
+
+TOP: Graphing Systems of Linear Inequalities
+
+                                                                         29
+                                                                                                 ID: A
+
+204 ANS:
+
+                                           The graphs of the production costs intersect at x = 3. The company should
+use Site A, because the cost of Site A is lower at x = 2.
+
+       PTS: 6       REF: 061437ai NAT: A.REI.7  TOP: Quadratic-Linear Systems
+205 ANS:
+
+                    x = -2,1
+
+PTS: 4              REF: 081435ai NAT: A.REI.7  TOP: Quadratic-Linear Systems
+
+206 ANS:
+
+x2 + 46 = 60 + 5x John and Sarah will have the same amount of money saved at 7 weeks. I set the
+
+x2 - 5x - 14 = 0
+
+(x - 7)(x + 2) = 0
+
+             x=7
+expressions representing their savings equal to each other and solved for the positive value of x by factoring.
+
+PTS: 2              REF: 061527ai NAT: A.REI.11 TOP: Quadratic-Linear Systems
+
+                              30
+                                                                                         ID: A
+
+207 ANS: 2
+
+x2  - 2x    -8  =  1  x  -1
+                   4
+
+4x2 - 8x - 32 = x - 4
+
+4x2 - 9x - 28 = 0
+
+(4x + 7)(x - 4) = 0
+
+            x=     -  7  ,  4
+                      4
+
+PTS: 2                      REF: 081517ai  NAT: A.REI.11  TOP: Quadratic-Linear Systems
+                                           REF: 011518ai  NAT: A.REI.11
+208 ANS: 3                  PTS: 2
+
+TOP: Nonlinear Systems
+
+                                           31
+
